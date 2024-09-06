@@ -1,0 +1,12 @@
+[[airport]]
+icao = "EDDW"
+
+[[airport.links]]
+category = "Charts"
+name = "Charts (IFR)"
+url = "https://chartfox.org/EDDW"
+
+[[airport.links]]
+category = "Scenery"
+name = "MSFS Scenery by PaulEDDW"
+url = "https://flightsim.to/file/25707/bremen-airport-hans-koschnick-eddw"
