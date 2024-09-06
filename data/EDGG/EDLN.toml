@@ -13,15 +13,20 @@ url = "https://knowledgebase.vatsim-germany.org/books/airports-langen-fir-edgg/c
 
 [[airport.links]]
 category = "Scenery"
-name = "MSFS Scenery by CountCrash"
-url = "https://forums.x-plane.org/index.php?/files/file/86343-edln-m%C3%B6nchengladbach-for-xp-12/"
+name = "MSFS Freeware by crosswindsim"
+url = "https://flightsim.to/file/54154/edln-mnchengladbach-airport/"
 
 [[airport.links]]
 category = "Scenery"
-name = "MSFS Scenery by uli057"
+name = "MSFS Freeware by uli057"
 url = "https://flightsim.to/file/21557/edln-mnchengladbach"
 
 [[airport.links]]
 category = "Scenery"
-name = "X-Plane Scenery by crosswindsim"
+name = "X-Plane Freeware by CountCrash"
 url = "https://forums.x-plane.org/index.php?/files/file/86343-edln-m%C3%B6nchengladbach-for-xp-12/"
+
+[[airport.links]]
+category = "Scenery"
+name = "MSFS Payware by SPINOZA"
+url = "https://secure.simmarket.com/spinoza-edln-moenchengladbach-msfs.phtml"
