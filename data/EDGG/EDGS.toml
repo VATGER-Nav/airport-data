@@ -8,5 +8,10 @@ url = "https://chartfox.org/EDGS"
 
 [[airport.links]]
 category = "Scenery"
-name = "MSFS Scenery by uli057"
+name = "MSFS Freeware by uli057"
 url = "https://flightsim.to/file/22730/edgs-airport-siegerland-burbach"
+
+[[airport.links]]
+category = "Scenery"
+name = "X-Plane Freeware by Huey Pilot"
+url = "https://forums.x-plane.org/index.php?/files/file/88624-the-siegerland-project-edgs-germany/"
