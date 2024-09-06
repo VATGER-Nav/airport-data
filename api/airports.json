@@ -126,6 +126,21 @@
             ]
         },
         {
+            "icao": "EDDW",
+            "links": [
+                {
+                    "category": "Charts",
+                    "name": "Charts (IFR)",
+                    "url": "https://chartfox.org/EDDW"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "MSFS Scenery by PaulEDDW",
+                    "url": "https://flightsim.to/file/25707/bremen-airport-hans-koschnick-eddw"
+                }
+            ]
+        },
+        {
             "icao": "EDLP",
             "links": [
                 {
