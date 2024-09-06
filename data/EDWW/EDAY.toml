@@ -1,5 +1,5 @@
 [[airport]]
-icao = EDAY
+icao = "EDAY"
 
 [[airport.links]]
 category = "Charts"
