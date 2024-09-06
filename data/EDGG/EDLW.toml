@@ -13,10 +13,15 @@ url = "https://knowledgebase.vatsim-germany.org/books/airports-langen-fir-edgg/c
 
 [[airport.links]]
 category = "Scenery"
-name = "MSFS Scenery by Chak991"
+name = "MSFS Freeware by Chak991"
 url = "https://de.flightsim.to/file/47104/edlw-dortmund-regional"
 
 [[airport.links]]
 category = "Scenery"
-name = "MSFS Scenery by Bahrometrix"
+name = "MSFS Freeware by Bahrometrix"
 url = "https://flightsim.to/file/51183/regional-airport-dortmund-edlw"
+
+[[airport.links]]
+category = "Scenery"
+name = "X-plane Payware by Aerosoft"
+url = "https://www.aerosoft.com/de/shop/flight/x-plane/x-plane-11/szenerien/xp-europa/2443/dortmund-xp"
