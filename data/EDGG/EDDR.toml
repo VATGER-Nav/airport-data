@@ -10,3 +10,8 @@ url = "https://chartfox.org/EDDR"
 category = "Briefing"
 name = "Pilotbriefing"
 url = "https://knowledgebase.vatsim-germany.org/books/airports-langen-fir-edgg/chapter/eddr-saarbrucken"
+
+[[airport.links]]
+category = "Scenery"
+name = "MSFS Payware by FREDS-Airports"
+url = "https://www.freds-airports.de/eddr-airport-saarbruecken/"
