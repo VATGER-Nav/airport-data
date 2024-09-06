@@ -18,5 +18,20 @@ url = "https://knowledgebase.vatsim-germany.org/books/vacdm/page/vacdm-pilot-gui
 
 [[airport.links]]
 category = "Scenery"
-name = "MSFS Scenery by hu277"
+name = "MSFS Freeware by hu277"
 url = "https://flightsim.to/file/7172/eddl-enhancement-v0-1"
+
+[[airport.links]]
+category = "Scenery"
+name = "MSFS Payware by Justsim"
+url = "https://secure.simmarket.com/justsim-duesseldorf-airport-msfs.phtml"
+
+[[airport.links]]
+category = "Scenery"
+name = "MSFS Payware by Simbreeze"
+url = "https://secure.simmarket.com/simbreeze-duesseldorf-de-msfs.phtml"
+
+[[airport.links]]
+category = "Scenery"
+name = "X-Plane Payware by Justsim"
+url = "https://secure.simmarket.com/justsim-duesseldorf-airport-eddl-v2.-x-plane-11.phtml"
