@@ -13,5 +13,10 @@ url = "https://knowledgebase.vatsim-germany.org/books/airports-langen-fir-edgg/c
 
 [[airport.links]]
 category = "Scenery"
-name = "MSFS Scenery by Aerosoft"
+name = "MSFS Freeware by Aerosoft"
 url = "https://secure.simmarket.com/aerosoft-airport-paderbornlippstadt-msfs-free.phtml"
+
+[[airport.links]]
+category = "Scenery"
+name = "X-Plane Payware by Aerosoft"
+url = "https://www.aerosoft.com/de/shop/flight/x-plane/x-plane-11/szenerien/xp-europa/2716/paderborn-xp"
