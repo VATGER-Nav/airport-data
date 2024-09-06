@@ -1,0 +1,7 @@
+[[airport]]
+icao = "ETNL"
+
+[[airport.links]]
+category = "Charts"
+name = "Charts"
+url = "https://chartfox.org/ETNL"

@@ -1,0 +1,8 @@
+[[airport]]
+icao = "EDAY"
+
+[[airport.links]]
+category = "Charts"
+name = "Charts"
+url = "https://chartfox.org/EDAY"
+
