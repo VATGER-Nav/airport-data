@@ -13,5 +13,10 @@ url = "https://knowledgebase.vatsim-germany.org/books/airports-langen-fir-edgg/c
 
 [[airport.links]]
 category = "Scenery"
-name = "MSFS Scenery by here2fly"
+name = "MSFS Freeware by here2fly"
 url = "https://flightsim.to/file/20717/niederrhein-weeze"
+
+[[airport.links]]
+category = "Scenery"
+name = "X-Plane Payware by Aerosoft"
+url = "https://store.x-plane.org/Airport-Weeze_p_298.html"
