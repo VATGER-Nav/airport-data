@@ -15,3 +15,8 @@ url = "https://1drv.ms/w/c/b6d5387947d75fd6/EYrY47Afd7RFl_nvjYjvY6QBbTP06NMpTH_-
 category = "Briefing"
 name = "vACDM Pilot Guide"
 url = "https://knowledgebase.vatsim-germany.org/books/vacdm/page/vacdm-pilot-guide"
+
+[[airport.links]]
+category = "Scenery"
+name = "MSFS Payware by Digital Design"
+url = "https://secure.simmarket.com/digital-design-leipzig-msfs.phtml"
