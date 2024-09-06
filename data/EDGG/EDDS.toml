@@ -15,3 +15,28 @@ url = "https://knowledgebase.vatsim-germany.org/books/airports-langen-fir-edgg/c
 category = "Briefing"
 name = "vACDM Pilot Guide"
 url = "https://knowledgebase.vatsim-germany.org/books/vacdm/page/vacdm-pilot-guide"
+
+[[airport.links]]
+category = "Scenery"
+name = "MSFS Payware by RDPresets"
+url = "https://contrail.shop/products/edds-stuttgart-international-airport-msfs"
+
+[[airport.links]]
+category = "Scenery"
+name = "MSFS Payware by Justsim"
+url = "https://secure.simmarket.com/justsim-edds-stuttgart-airport-msfs-(de_14648).phtml"
+
+[[airport.links]]
+category = "Scenery"
+name = "MSFS Payware by FeelThere"
+url = "https://secure.simmarket.com/feelthere-edds-stuttgart-international-airport-msfs.phtml"
+
+[[airport.links]]
+category = "Scenery"
+name = "X-Plane Payware by FeelThere"
+url = "https://secure.simmarket.com/feelthere-edds-stuttgart-international-airport-x-plane-11.phtml"
+
+[[airport.links]]
+category = "Scenery"
+name = "X-Plane Payware by Justsim"
+url = "https://secure.simmarket.com/justsim-stuttgart-airport-x-plane-11.phtml"
