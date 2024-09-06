@@ -18,5 +18,15 @@ url = "https://knowledgebase.vatsim-germany.org/books/vacdm/page/vacdm-pilot-gui
 
 [[airport.links]]
 category = "Scenery"
-name = "MSFS Scenery by NSAJID"
+name = "MSFS Freeware by NSAJID"
 url = "https://flightsim.to/file/56933/eddm-munich-franz-josef-strauss-airport"
+
+[[airport.links]]
+category = "Scenery"
+name = "MSFS Payware by Sim-Wings"
+url = "https://www.aerosoft.com/de/shop/flight/microsoft-flight-simulator/msfs-szenerien/msfs-europa/3253/sim-wings-munich-v2"
+
+[[airport.links]]
+category = "Scenery"
+name = "X-Plane Payware by SFD"
+url = "https://secure.simmarket.com/shortfinal-design-flughafen-muenchen-x-plane-11.phtml"
