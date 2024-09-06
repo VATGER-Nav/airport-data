@@ -13,5 +13,15 @@ url = "https://1drv.ms/w/c/b6d5387947d75fd6/EWscK06wNcRKoiEevu-0fksBYcVeGRv8-J5j
 
 [[airport.links]]
 category = "Scenery"
-name = "MSFS Scenery by jumiktdesign"
+name = "MSFS Freeware by jumiktdesign"
 url = "https://flightsim.to/file/3062/dresden-international-airport-eddc-enhancement"
+
+[[airport.links]]
+category = "Scenery"
+name = "MSFS Payware by Justsim"
+url = "https://secure.simmarket.com/justsim-dresden-airport-eddc-msfs.phtml"
+
+[[airport.links]]
+category = "Scenery"
+name = "X-Plane Payware by Justsim"
+url = "https://secure.simmarket.com/justsim-dresden-airport-eddc-x-plane-11.phtml"
