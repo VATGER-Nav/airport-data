@@ -13,5 +13,15 @@ url = "https://1drv.ms/w/c/b6d5387947d75fd6/EV0wOZxFCFpMpnmPzfPpFfcBsdJI8oHmAFhC
 
 [[airport.links]]
 category = "Scenery"
-name = "X-Plane Scenery by FranknFly"
+name = "X-Plane Freeware by FranknFly"
 url = "https://forums.x-plane.org/index.php?/files/file/42808-eddn-nuernberg-international-for-xplane-12/"
+
+[[airport.links]]
+category = "Scenery"
+name = "MSFS Payware by FREDS-Airports"
+url = "https://www.freds-airports.de/eddn-airport-nuernberg/"
+
+[[airport.links]]
+category = "Scenery"
+name = "MSFS Payware by Captain7"
+url = "https://www.aerosoft.com/de/shop/flight/microsoft-flight-simulator/msfs-szenerien/msfs-europa/3749/aerosoft/captain7-airport-nuernberg"
