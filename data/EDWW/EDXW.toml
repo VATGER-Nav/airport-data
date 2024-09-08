@@ -1,0 +1,22 @@
+[[airport]]
+icao = "EDXW"
+
+[[airport.links]]
+category = "Charts"
+name = "Charts (IFR)"
+url = "https://chartfox.org/EDXW"
+
+[[airport.links]]
+category = "Charts"
+name = "Charts (VFR)"
+url = "https://www.vfraip.de/?EDXW"
+
+[[airport.links]]
+category = "Briefing"
+name = "Pilotbriefing"
+url = "https://vats.im/edxw-briefing"
+
+[[airport.links]]
+category = "Scenery"
+name = "MSFS Freeware by uli057"
+url = "https://flightsim.to/file/20580/scenery-edxw-include-landmarks"
