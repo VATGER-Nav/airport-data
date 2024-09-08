@@ -1,0 +1,42 @@
+[[airport]]
+icao = "EDDH"
+
+[[airport.links]]
+category = "Charts"
+name = "Charts (IFR)"
+url = "https://chartfox.org/EDDH"
+
+[[airport.links]]
+category = "Charts"
+name = "Charts (VFR)"
+url = "https://www.vfraip.de/?EDDH"
+
+[[airport.links]]
+category = "Briefing"
+name = "Pilotbriefing"
+url = "https://knowledgebase.vatsim-germany.org/books/airports-bremen-fir-edww/chapter/eddh-hamburg-airport"
+
+[[airport.links]]
+category = "Briefing"
+name = "vACDM Pilot Guide"
+url = "https://knowledgebase.vatsim-germany.org/books/vacdm/page/vacdm-pilot-guide"
+
+[[airport.links]]
+category = "Scenery"
+name = "MSFS Freeware by Chak991"
+url = "https://flightsim.to/file/46797/eddh-hamburg-airport"
+
+[[airport.links]]
+category = "Scenery"
+name = "MSFS Payware by Sim-Wings"
+url = "https://www.aerosoft.com/de/shop/flight/microsoft-flight-simulator/msfs-szenerien/msfs-europa/3254/sim-wings-hamburg"
+
+[[airport.links]]
+category = "Scenery"
+name = "MSFS Payware by Justsim"
+url = "https://secure.simmarket.com/justsim-hamburg-airport-eddh_msfs.phtml"
+
+[[airport.links]]
+category = "Scenery"
+name = "X-Plane Payware by Justsim"
+url = "https://secure.simmarket.com/justsim-hamburg-airport-eddh-v2-x-plane-11.phtml"
