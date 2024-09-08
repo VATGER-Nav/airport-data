@@ -1,0 +1,27 @@
+[[airport]]
+icao = "EDVE"
+
+[[airport.links]]
+category = "Charts"
+name = "Charts (IFR)"
+url = "https://chartfox.org/EDVE"
+
+[[airport.links]]
+category = "Charts"
+name = "Charts (VFR)"
+url = "https://www.vfraip.de/?EDVE"
+
+[[airport.links]]
+category = "Briefing"
+name = "Pilotbriefing"
+url = "https://vats.im/edve-briefing"
+
+[[airport.links]]
+category = "Briefing"
+name = "vACDM Pilot Guide"
+url = "https://knowledgebase.vatsim-germany.org/books/vacdm/page/vacdm-pilot-guide"
+
+[[airport.links]]
+category = "Scenery"
+name = "MSFS Freeware by TeamEDVE"
+url = "https://flightsim.to/file/23933/flughafen-braunschweig-wolfsburg-edve/"
