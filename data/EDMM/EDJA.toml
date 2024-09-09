@@ -7,6 +7,11 @@ name = "Charts (IFR)"
 url = "https://chartfox.org/EDJA"
 
 [[airport.links]]
+category = "Charts"
+name = "Charts (VFR)"
+url = "https://www.vfraip.de/?EDJA"
+
+[[airport.links]]
 category = "Briefing"
 name = "Pilotbriefing"
 url = "https://vats.im/edja-briefing"
