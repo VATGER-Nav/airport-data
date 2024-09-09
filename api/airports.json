@@ -20,8 +20,18 @@
                 },
                 {
                     "category": "Scenery",
-                    "name": "MSFS Scenery by NSAJID",
+                    "name": "MSFS Freeware by NSAJID",
                     "url": "https://flightsim.to/file/56933/eddm-munich-franz-josef-strauss-airport"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "MSFS Payware by Sim-Wings",
+                    "url": "https://www.aerosoft.com/de/shop/flight/microsoft-flight-simulator/msfs-szenerien/msfs-europa/3253/sim-wings-munich-v2"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "X-Plane Payware by SFD",
+                    "url": "https://secure.simmarket.com/shortfinal-design-flughafen-muenchen-x-plane-11.phtml"
                 }
             ]
         },
@@ -36,12 +46,22 @@
                 {
                     "category": "Briefing",
                     "name": "Pilotbriefing",
-                    "url": "https://1drv.ms/w/c/b6d5387947d75fd6/EV0wOZxFCFpMpnmPzfPpFfcBsdJI8oHmAFhChWtqh6Jzcg?e=poD7c0"
+                    "url": "https://vats.im/eddn-briefing"
                 },
                 {
                     "category": "Scenery",
-                    "name": "X-Plane Scenery by FranknFly",
+                    "name": "X-Plane Freeware by FranknFly",
                     "url": "https://forums.x-plane.org/index.php?/files/file/42808-eddn-nuernberg-international-for-xplane-12/"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "MSFS Payware by FREDS-Airports",
+                    "url": "https://www.freds-airports.de/eddn-airport-nuernberg/"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "MSFS Payware by Captain7",
+                    "url": "https://www.aerosoft.com/de/shop/flight/microsoft-flight-simulator/msfs-szenerien/msfs-europa/3749/aerosoft/captain7-airport-nuernberg"
                 }
             ]
         },
@@ -56,12 +76,17 @@
                 {
                     "category": "Briefing",
                     "name": "Pilotbriefing",
-                    "url": "https://1drv.ms/w/c/b6d5387947d75fd6/EYrY47Afd7RFl_nvjYjvY6QBbTP06NMpTH_-56vlVmI8cg?e=GC0Td0"
+                    "url": "https://vats.im/eddp-briefing"
                 },
                 {
                     "category": "Briefing",
                     "name": "vACDM Pilot Guide",
                     "url": "https://knowledgebase.vatsim-germany.org/books/vacdm/page/vacdm-pilot-guide"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "MSFS Payware by Digital Design",
+                    "url": "https://secure.simmarket.com/digital-design-leipzig-msfs.phtml"
                 }
             ]
         },
@@ -76,11 +101,11 @@
                 {
                     "category": "Briefing",
                     "name": "Pilotbriefing",
-                    "url": "https://1drv.ms/b/c/b6d5387947d75fd6/ERYU5q0hg4lAg6-8JEoK39UBUOxFhl_wDW4HnRCClwVwzQ?e=YJjcYt"
+                    "url": "https://vats.im/edja-briefing"
                 },
                 {
                     "category": "Scenery",
-                    "name": "MSFS Scenery by FREDS-Airports",
+                    "name": "MSFS Freeware by FREDS-Airports",
                     "url": "https://www.freds-airports.de/edja-allgaeu-airport-memmingen/"
                 }
             ]
@@ -96,12 +121,22 @@
                 {
                     "category": "Briefing",
                     "name": "Pilotbriefing",
-                    "url": "https://1drv.ms/w/c/b6d5387947d75fd6/EWscK06wNcRKoiEevu-0fksBYcVeGRv8-J5j4nRQ0VjoWA?e=nbAnUa"
+                    "url": "https://vats.im/eddc-briefing"
                 },
                 {
                     "category": "Scenery",
-                    "name": "MSFS Scenery by jumiktdesign",
+                    "name": "MSFS Freeware by jumiktdesign",
                     "url": "https://flightsim.to/file/3062/dresden-international-airport-eddc-enhancement"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "MSFS Payware by Justsim",
+                    "url": "https://secure.simmarket.com/justsim-dresden-airport-eddc-msfs.phtml"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "X-Plane Payware by Justsim",
+                    "url": "https://secure.simmarket.com/justsim-dresden-airport-eddc-x-plane-11.phtml"
                 }
             ]
         },
@@ -116,12 +151,17 @@
                 {
                     "category": "Briefing",
                     "name": "Pilotbriefing",
-                    "url": "https://1drv.ms/w/c/b6d5387947d75fd6/EZ36vS_vlWNLtv1j8f7u6eQBd2Ud6UXBpenr3I48FbpJZw?e=hpXIE1"
+                    "url": "https://vats.im/edma-briefing"
                 },
                 {
                     "category": "Scenery",
-                    "name": "X-Plane Scenery by BaggySimi",
+                    "name": "X-Plane Freeware by BaggySimi",
                     "url": "https://forums.x-plane.org/index.php?/files/file/24438-edma-augsburg-airport/"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "MSFS Payware by Aerosoft",
+                    "url": "https://www.aerosoft.com/de/shop/flight/microsoft-flight-simulator/msfs-sceneries/msfs-europe/3348/aerosoft-airport-augsburg"
                 }
             ]
         },
@@ -390,8 +430,13 @@
                 },
                 {
                     "category": "Scenery",
-                    "name": "MSFS Scenery by Aerosoft",
+                    "name": "MSFS Freeware by Aerosoft",
                     "url": "https://secure.simmarket.com/aerosoft-airport-paderbornlippstadt-msfs-free.phtml"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "X-Plane Payware by Aerosoft",
+                    "url": "https://www.aerosoft.com/de/shop/flight/x-plane/x-plane-11/szenerien/xp-europa/2716/paderborn-xp"
                 }
             ]
         },
@@ -415,8 +460,23 @@
                 },
                 {
                     "category": "Scenery",
-                    "name": "MSFS Scenery by hu277",
+                    "name": "MSFS Freeware by hu277",
                     "url": "https://flightsim.to/file/7172/eddl-enhancement-v0-1"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "MSFS Payware by Justsim",
+                    "url": "https://secure.simmarket.com/justsim-duesseldorf-airport-msfs.phtml"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "MSFS Payware by Simbreeze",
+                    "url": "https://secure.simmarket.com/simbreeze-duesseldorf-de-msfs.phtml"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "X-Plane Payware by Justsim",
+                    "url": "https://secure.simmarket.com/justsim-duesseldorf-airport-eddl-v2.-x-plane-11.phtml"
                 }
             ]
         },
@@ -440,8 +500,18 @@
                 },
                 {
                     "category": "Scenery",
-                    "name": "X-Plane Scenery by FLYAGI",
+                    "name": "X-Plane Freeware by FLYAGI",
                     "url": "https://flight-sim.org/filebase/index.php?entry/1410-eddk-cologne-bonn-xp12/"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "MSFS Payware by Aerosoft",
+                    "url": "https://www.aerosoft.com/de/shop/flight/microsoft-flight-simulator/msfs-szenerien/msfs-europa/3237/aerosoft-airport-koeln/bonn"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "X-Plane Payware by Aerosoft",
+                    "url": "https://www.aerosoft.com/de/shop/flight/x-plane/x-plane-11/szenerien/xp-europa/2662/airport-koeln/bonn-xp"
                 }
             ]
         },
@@ -462,6 +532,31 @@
                     "category": "Briefing",
                     "name": "vACDM Pilot Guide",
                     "url": "https://knowledgebase.vatsim-germany.org/books/vacdm/page/vacdm-pilot-guide"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "MSFS Payware by RDPresets",
+                    "url": "https://contrail.shop/products/edds-stuttgart-international-airport-msfs"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "MSFS Payware by Justsim",
+                    "url": "https://secure.simmarket.com/justsim-edds-stuttgart-airport-msfs-(de_14648).phtml"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "MSFS Payware by FeelThere",
+                    "url": "https://secure.simmarket.com/feelthere-edds-stuttgart-international-airport-msfs.phtml"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "X-Plane Payware by FeelThere",
+                    "url": "https://secure.simmarket.com/feelthere-edds-stuttgart-international-airport-x-plane-11.phtml"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "X-Plane Payware by Justsim",
+                    "url": "https://secure.simmarket.com/justsim-stuttgart-airport-x-plane-11.phtml"
                 }
             ]
         },
@@ -485,13 +580,23 @@
                 },
                 {
                     "category": "Scenery",
-                    "name": "MSFS Scenery by virtualFRA",
+                    "name": "MSFS Freeware by virtualFRA",
                     "url": "https://virtual-fra.com/"
                 },
                 {
                     "category": "Scenery",
-                    "name": "MSFS Scenery by Aviotek",
+                    "name": "MSFS Freeware by Aviotek",
                     "url": "https://orbxdirect.com/product/aviotek-eddf-msfs"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "MSFS Payware by Aerosoft",
+                    "url": "https://www.aerosoft.com/de/shop/flight/microsoft-flight-simulator/msfs-szenerien/msfs-europa/4398/aerosoft-mega-airport-frankfurt"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "X-Plane Payware by Aerosoft",
+                    "url": "https://www.aerosoft.com/de/shop/flight/x-plane/x-plane-11/szenerien/xp-europa/2226/airport-frankfurt-v2-xp"
                 }
             ]
         },
@@ -506,12 +611,22 @@
                 {
                     "category": "Briefing",
                     "name": "Pilotbriefing",
-                    "url": "https://1drv.ms/b/c/b6d5387947d75fd6/Ebh_JCp74L9FiHPnJtTRTIkB5UZFb6qBNg33vfHzSxUowQ?e=NvbaUO"
+                    "url": "https://vats.im/edny-briefing"
                 },
                 {
                     "category": "Scenery",
-                    "name": "MSFS Scenery by BaggySimi",
+                    "name": "MSFS Freeware by BaggySimi",
                     "url": "https://flightsim.to/file/36234/friedrichshafen-airport-edny-enhanced"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "MSFS Payware by Aerosoft",
+                    "url": "https://www.aerosoft.com/de/shop/flight/microsoft-flight-simulator/msfs-szenerien/msfs-europa/3385/aerosoft-airport-friedrichshafen"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "X-Plane Payware by Aerosoft",
+                    "url": "https://www.aerosoft.com/de/shop/flight/x-plane/x-plane-11/szenerien/xp-europa/2444/airport-friedrichshafen-xp"
                 }
             ]
         },
@@ -530,13 +645,23 @@
                 },
                 {
                     "category": "Scenery",
-                    "name": "MSFS Scenery by pandamisha",
+                    "name": "MSFS Freeware by pandamisha",
                     "url": "https://flightsim.to/file/46436/frankfurt-hahn-airport-edfh"
                 },
                 {
                     "category": "Scenery",
-                    "name": "X-Plane Scenery by chrisru",
+                    "name": "X-Plane Freeware by chrisru",
                     "url": "https://forums.x-plane.org/index.php?/files/file/38260-frankfurt-hahn-airport/"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "MSFS Payware by RFSCENERYBUILDING",
+                    "url": "https://secure.simmarket.com/rfscenerybuilding-edfh-frankfurt-hahn-msfs.phtml"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "X-Plane Payware by Aerosoft",
+                    "url": "https://www.aerosoft.com/de/shop/flight/x-plane/x-plane-11/sceneries/xp-europe/732/airport-frankfurt-hahn-xp"
                 }
             ]
         },
@@ -552,6 +677,11 @@
                     "category": "Briefing",
                     "name": "Pilotbriefing",
                     "url": "https://knowledgebase.vatsim-germany.org/books/airports-langen-fir-edgg/chapter/eddr-saarbrucken"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "MSFS Payware by FREDS-Airports",
+                    "url": "https://www.freds-airports.de/eddr-airport-saarbruecken/"
                 }
             ]
         },
@@ -565,8 +695,13 @@
                 },
                 {
                     "category": "Scenery",
-                    "name": "MSFS Scenery by uli057",
+                    "name": "MSFS Freeware by uli057",
                     "url": "https://flightsim.to/file/22730/edgs-airport-siegerland-burbach"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "X-Plane Freeware by Huey Pilot",
+                    "url": "https://forums.x-plane.org/index.php?/files/file/88624-the-siegerland-project-edgs-germany/"
                 }
             ]
         },
@@ -585,8 +720,13 @@
                 },
                 {
                     "category": "Scenery",
-                    "name": "X-Plane Scenery by AeroX",
+                    "name": "X-Plane Freeware by AeroX",
                     "url": "https://forums.x-plane.org/index.php?/files/file/68472-edsb-fkb-baden-airpark-v2-by-aerox-simulations-original-file-download/"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "MSFS Payware by Aerosoft",
+                    "url": "https://www.aerosoft.com/de/shop/flight/microsoft-flight-simulator/msfs-szenerien/msfs-europa/3934/aerosoft-airport-karlsruhe/baden-baden"
                 }
             ]
         },
@@ -605,18 +745,23 @@
                 },
                 {
                     "category": "Scenery",
-                    "name": "MSFS Scenery by CountCrash",
-                    "url": "https://forums.x-plane.org/index.php?/files/file/86343-edln-m%C3%B6nchengladbach-for-xp-12/"
+                    "name": "MSFS Freeware by crosswindsim",
+                    "url": "https://flightsim.to/file/54154/edln-mnchengladbach-airport/"
                 },
                 {
                     "category": "Scenery",
-                    "name": "MSFS Scenery by uli057",
+                    "name": "MSFS Freeware by uli057",
                     "url": "https://flightsim.to/file/21557/edln-mnchengladbach"
                 },
                 {
                     "category": "Scenery",
-                    "name": "X-Plane Scenery by crosswindsim",
+                    "name": "X-Plane Freeware by CountCrash",
                     "url": "https://forums.x-plane.org/index.php?/files/file/86343-edln-m%C3%B6nchengladbach-for-xp-12/"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "MSFS Payware by SPINOZA",
+                    "url": "https://secure.simmarket.com/spinoza-edln-moenchengladbach-msfs.phtml"
                 }
             ]
         },
@@ -635,8 +780,13 @@
                 },
                 {
                     "category": "Scenery",
-                    "name": "MSFS Scenery by here2fly",
+                    "name": "MSFS Freeware by here2fly",
                     "url": "https://flightsim.to/file/20717/niederrhein-weeze"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "X-Plane Payware by Aerosoft",
+                    "url": "https://store.x-plane.org/Airport-Weeze_p_298.html"
                 }
             ]
         },
@@ -655,12 +805,12 @@
                 },
                 {
                     "category": "Scenery",
-                    "name": "MSFS Scenery by joe_ger",
+                    "name": "MSFS Freeware by joe_ger",
                     "url": "https://flightsim.to/file/28603/edfm-airport-mannheim-city"
                 },
                 {
                     "category": "Scenery",
-                    "name": "X-Plane Scenery by AeroX",
+                    "name": "X-Plane Freeware by AeroX",
                     "url": "https://forums.x-plane.org/index.php?/files/file/84552-edfmmhg-mannheim-city-airport-by-aerox-simulations/"
                 }
             ]
@@ -680,13 +830,18 @@
                 },
                 {
                     "category": "Scenery",
-                    "name": "MSFS Scenery by LeoBloom",
+                    "name": "MSFS Freeware by LeoBloom",
                     "url": "https://flightsim.to/file/13613/munster-osnabruck-international-airport"
                 },
                 {
                     "category": "Scenery",
-                    "name": "X-Plane Scenery by AeroX",
+                    "name": "X-Plane Freeware by AeroX",
                     "url": "https://forums.x-plane.org/index.php?/files/file/69405-eddg-fmo-m%C3%BCnster-osnabr%C3%BCck/"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "MSFS Payware by MM",
+                    "url": "https://secure.simmarket.com/mm-simulations-eddg-munster-osnabruck-airport-msfs.phtml"
                 }
             ]
         },
@@ -705,13 +860,18 @@
                 },
                 {
                     "category": "Scenery",
-                    "name": "MSFS Scenery by Chak991",
+                    "name": "MSFS Freeware by Chak991",
                     "url": "https://de.flightsim.to/file/47104/edlw-dortmund-regional"
                 },
                 {
                     "category": "Scenery",
-                    "name": "MSFS Scenery by Bahrometrix",
+                    "name": "MSFS Freeware by Bahrometrix",
                     "url": "https://flightsim.to/file/51183/regional-airport-dortmund-edlw"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "X-plane Payware by Aerosoft",
+                    "url": "https://www.aerosoft.com/de/shop/flight/x-plane/x-plane-11/szenerien/xp-europa/2443/dortmund-xp"
                 }
             ]
         }
