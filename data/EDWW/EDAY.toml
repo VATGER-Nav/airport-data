@@ -3,6 +3,15 @@ icao = "EDAY"
 
 [[airport.links]]
 category = "Charts"
-name = "Charts"
+name = "Charts (IFR)"
 url = "https://chartfox.org/EDAY"
 
+[[airport.links]]
+category = "Charts"
+name = "Charts (VFR)"
+url = "https://www.vfraip.de/?EDAY"
+
+[[airport.links]]
+category = "Briefing"
+name = "Pilotbriefing"
+url = "https://vats.im/eday-briefing"
