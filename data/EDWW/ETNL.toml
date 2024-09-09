@@ -5,3 +5,13 @@ icao = "ETNL"
 category = "Charts"
 name = "Charts"
 url = "https://chartfox.org/ETNL"
+
+[[airport.links]]
+category = "Charts"
+name = "Charts (VFR)"
+url = "https://www.vfraip.de/?ETNL"
+
+[[airport.links]]
+category = "Briefing"
+name = "Pilotbriefing"
+url = "https://vats.im/etnl-briefing"
