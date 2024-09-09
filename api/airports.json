@@ -9,6 +9,11 @@
                     "url": "https://chartfox.org/EDDM"
                 },
                 {
+                    "category": "Charts",
+                    "name": "Charts (VFR)",
+                    "url": "https://www.vfraip.de/?EDDM"
+                },
+                {
                     "category": "Briefing",
                     "name": "Pilotbriefing",
                     "url": "https://knowledgebase.vatsim-germany.org/books/airports-munchen-fir-edmm/chapter/eddm-munchen"
@@ -44,6 +49,11 @@
                     "url": "https://chartfox.org/EDDN"
                 },
                 {
+                    "category": "Charts",
+                    "name": "Charts (VFR)",
+                    "url": "https://www.vfraip.de/?EDDN"
+                },
+                {
                     "category": "Briefing",
                     "name": "Pilotbriefing",
                     "url": "https://vats.im/eddn-briefing"
@@ -74,6 +84,11 @@
                     "url": "https://chartfox.org/EDDP"
                 },
                 {
+                    "category": "Charts",
+                    "name": "Charts (VFR)",
+                    "url": "https://www.vfraip.de/?EDDP"
+                },
+                {
                     "category": "Briefing",
                     "name": "Pilotbriefing",
                     "url": "https://vats.im/eddp-briefing"
@@ -99,6 +114,11 @@
                     "url": "https://chartfox.org/EDJA"
                 },
                 {
+                    "category": "Charts",
+                    "name": "Charts (VFR)",
+                    "url": "https://www.vfraip.de/?EDJA"
+                },
+                {
                     "category": "Briefing",
                     "name": "Pilotbriefing",
                     "url": "https://vats.im/edja-briefing"
@@ -117,6 +137,11 @@
                     "category": "Charts",
                     "name": "Charts (IFR)",
                     "url": "https://chartfox.org/EDDC"
+                },
+                {
+                    "category": "Charts",
+                    "name": "Charts (VFR)",
+                    "url": "https://www.vfraip.de/?EDDC"
                 },
                 {
                     "category": "Briefing",
@@ -147,6 +172,11 @@
                     "category": "Charts",
                     "name": "Charts (IFR)",
                     "url": "https://chartfox.org/EDMA"
+                },
+                {
+                    "category": "Charts",
+                    "name": "Charts (VFR)",
+                    "url": "https://www.vfraip.de/?EDMA"
                 },
                 {
                     "category": "Briefing",
@@ -424,6 +454,11 @@
                     "url": "https://chartfox.org/EDLP"
                 },
                 {
+                    "category": "Charts",
+                    "name": "Charts (VFR)",
+                    "url": "https://www.vfraip.de/?EDLP"
+                },
+                {
                     "category": "Briefing",
                     "name": "Pilotbriefing",
                     "url": "https://knowledgebase.vatsim-germany.org/books/airports-langen-fir-edgg/chapter/edlp-paderbornlippstadt"
@@ -447,6 +482,11 @@
                     "category": "Charts",
                     "name": "Charts (IFR)",
                     "url": "https://chartfox.org/EDDL"
+                },
+                {
+                    "category": "Charts",
+                    "name": "Charts (VFR)",
+                    "url": "https://www.vfraip.de/?EDDL"
                 },
                 {
                     "category": "Briefing",
@@ -489,6 +529,11 @@
                     "url": "https://chartfox.org/EDDK"
                 },
                 {
+                    "category": "Charts",
+                    "name": "Charts (VFR)",
+                    "url": "https://www.vfraip.de/?EDDK"
+                },
+                {
                     "category": "Briefing",
                     "name": "Pilotbriefing",
                     "url": "https://knowledgebase.vatsim-germany.org/books/airports-langen-fir-edgg/chapter/eddk-kolnbonn"
@@ -522,6 +567,11 @@
                     "category": "Charts",
                     "name": "Charts (IFR)",
                     "url": "https://chartfox.org/EDDS"
+                },
+                {
+                    "category": "Charts",
+                    "name": "Charts (VFR)",
+                    "url": "https://www.vfraip.de/?EDDS"
                 },
                 {
                     "category": "Briefing",
@@ -569,6 +619,11 @@
                     "url": "https://chartfox.org/EDDF"
                 },
                 {
+                    "category": "Charts",
+                    "name": "Charts (VFR)",
+                    "url": "https://www.vfraip.de/?EDDF"
+                },
+                {
                     "category": "Briefing",
                     "name": "Pilotbriefing",
                     "url": "https://knowledgebase.vatsim-germany.org/books/airports-langen-fir-edgg/chapter/eddf-frankfurtmain"
@@ -609,6 +664,11 @@
                     "url": "https://chartfox.org/EDNY"
                 },
                 {
+                    "category": "Charts",
+                    "name": "Charts (VFR)",
+                    "url": "https://www.vfraip.de/?EDNY"
+                },
+                {
                     "category": "Briefing",
                     "name": "Pilotbriefing",
                     "url": "https://vats.im/edny-briefing"
@@ -637,6 +697,11 @@
                     "category": "Charts",
                     "name": "Charts (IFR)",
                     "url": "https://chartfox.org/EDFH"
+                },
+                {
+                    "category": "Charts",
+                    "name": "Charts (VFR)",
+                    "url": "https://www.vfraip.de/?EDFH"
                 },
                 {
                     "category": "Briefing",
@@ -674,6 +739,11 @@
                     "url": "https://chartfox.org/EDDR"
                 },
                 {
+                    "category": "Charts",
+                    "name": "Charts (VFR)",
+                    "url": "https://www.vfraip.de/?EDDR"
+                },
+                {
                     "category": "Briefing",
                     "name": "Pilotbriefing",
                     "url": "https://knowledgebase.vatsim-germany.org/books/airports-langen-fir-edgg/chapter/eddr-saarbrucken"
@@ -694,6 +764,11 @@
                     "url": "https://chartfox.org/EDGS"
                 },
                 {
+                    "category": "Charts",
+                    "name": "Charts (VFR)",
+                    "url": "https://www.vfraip.de/?EDGS"
+                },
+                {
                     "category": "Scenery",
                     "name": "MSFS Freeware by uli057",
                     "url": "https://flightsim.to/file/22730/edgs-airport-siegerland-burbach"
@@ -712,6 +787,11 @@
                     "category": "Charts",
                     "name": "Charts (IFR)",
                     "url": "https://chartfox.org/EDSB"
+                },
+                {
+                    "category": "Charts",
+                    "name": "Charts (VFR)",
+                    "url": "https://www.vfraip.de/?EDSB"
                 },
                 {
                     "category": "Briefing",
@@ -737,6 +817,11 @@
                     "category": "Charts",
                     "name": "Charts (IFR)",
                     "url": "https://chartfox.org/EDLN"
+                },
+                {
+                    "category": "Charts",
+                    "name": "Charts (VFR)",
+                    "url": "https://www.vfraip.de/?EDLN"
                 },
                 {
                     "category": "Briefing",
@@ -774,6 +859,11 @@
                     "url": "https://chartfox.org/EDLV"
                 },
                 {
+                    "category": "Charts",
+                    "name": "Charts (VFR)",
+                    "url": "https://www.vfraip.de/?EDLV"
+                },
+                {
                     "category": "Briefing",
                     "name": "Pilotbriefing",
                     "url": "https://knowledgebase.vatsim-germany.org/books/airports-langen-fir-edgg/chapter/edlv-niederrhein"
@@ -799,6 +889,11 @@
                     "url": "https://chartfox.org/EDFM"
                 },
                 {
+                    "category": "Charts",
+                    "name": "Charts (VFR)",
+                    "url": "https://www.vfraip.de/?EDFM"
+                },
+                {
                     "category": "Briefing",
                     "name": "Pilotbriefing",
                     "url": "https://knowledgebase.vatsim-germany.org/books/airports-langen-fir-edgg/chapter/edfm-mannheim-city"
@@ -822,6 +917,11 @@
                     "category": "Charts",
                     "name": "Charts (IFR)",
                     "url": "https://chartfox.org/EDDG"
+                },
+                {
+                    "category": "Charts",
+                    "name": "Charts (VFR)",
+                    "url": "https://www.vfraip.de/?EDDG"
                 },
                 {
                     "category": "Briefing",
@@ -852,6 +952,11 @@
                     "category": "Charts",
                     "name": "Charts (IFR)",
                     "url": "https://chartfox.org/EDLW"
+                },
+                {
+                    "category": "Charts",
+                    "name": "Charts (VFR)",
+                    "url": "https://www.vfraip.de/?EDLW"
                 },
                 {
                     "category": "Briefing",
