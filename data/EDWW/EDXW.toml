@@ -23,5 +23,10 @@ url = "https://flightsim.to/file/20580/scenery-edxw-include-landmarks"
 
 [[airport.links]]
 category = "Scenery"
+name = "X-Plane Freeware by GPP"
+url = "https://forums.x-plane.org/index.php?/files/file/63200-edxw-westerland-sylt/"
+
+[[airport.links]]
+category = "Scenery"
 name = "MSFS Payware by FSDG"
 url = "https://secure.simmarket.com/fsdg-sylt-msfs.phtml"
