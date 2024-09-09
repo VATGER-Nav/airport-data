@@ -7,6 +7,11 @@ name = "Charts (IFR)"
 url = "https://chartfox.org/EDFH"
 
 [[airport.links]]
+category = "Charts"
+name = "Charts (VFR)"
+url = "https://www.vfraip.de/?EDFH"
+
+[[airport.links]]
 category = "Briefing"
 name = "Pilotbriefing"
 url = "https://knowledgebase.vatsim-germany.org/books/airports-langen-fir-edgg/chapter/edfh-frankfurt-hahn"
