@@ -146,6 +146,121 @@
             ]
         },
         {
+            "icao": "EDHL",
+            "links": [
+                {
+                    "category": "Charts",
+                    "name": "Charts (IFR)",
+                    "url": "https://chartfox.org/EDHL"
+                },
+                {
+                    "category": "Charts",
+                    "name": "Charts (VFR)",
+                    "url": "https://www.vfraip.de/?EDHL"
+                },
+                {
+                    "category": "Briefing",
+                    "name": "Pilotbriefing",
+                    "url": "https://vats.im/edhl-briefing"
+                }
+            ]
+        },
+        {
+            "icao": "EDDH",
+            "links": [
+                {
+                    "category": "Charts",
+                    "name": "Charts (IFR)",
+                    "url": "https://chartfox.org/EDDH"
+                },
+                {
+                    "category": "Charts",
+                    "name": "Charts (VFR)",
+                    "url": "https://www.vfraip.de/?EDDH"
+                },
+                {
+                    "category": "Briefing",
+                    "name": "Pilotbriefing",
+                    "url": "https://knowledgebase.vatsim-germany.org/books/airports-bremen-fir-edww/chapter/eddh-hamburg-airport"
+                },
+                {
+                    "category": "Briefing",
+                    "name": "vACDM Pilot Guide",
+                    "url": "https://knowledgebase.vatsim-germany.org/books/vacdm/page/vacdm-pilot-guide"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "MSFS Freeware by Chak991",
+                    "url": "https://flightsim.to/file/46797/eddh-hamburg-airport"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "MSFS Payware by Sim-Wings",
+                    "url": "https://www.aerosoft.com/de/shop/flight/microsoft-flight-simulator/msfs-szenerien/msfs-europa/3254/sim-wings-hamburg"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "MSFS Payware by Justsim",
+                    "url": "https://secure.simmarket.com/justsim-hamburg-airport-eddh_msfs.phtml"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "X-Plane Payware by Justsim",
+                    "url": "https://secure.simmarket.com/justsim-hamburg-airport-eddh-v2-x-plane-11.phtml"
+                }
+            ]
+        },
+        {
+            "icao": "EDXW",
+            "links": [
+                {
+                    "category": "Charts",
+                    "name": "Charts (IFR)",
+                    "url": "https://chartfox.org/EDXW"
+                },
+                {
+                    "category": "Charts",
+                    "name": "Charts (VFR)",
+                    "url": "https://www.vfraip.de/?EDXW"
+                },
+                {
+                    "category": "Briefing",
+                    "name": "Pilotbriefing",
+                    "url": "https://vats.im/edxw-briefing"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "MSFS Freeware by uli057",
+                    "url": "https://flightsim.to/file/20580/scenery-edxw-include-landmarks"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "MSFS Payware by FSDG",
+                    "url": "https://secure.simmarket.com/fsdg-sylt-msfs.phtml"
+                }
+            ]
+        },
+        {
+            "icao": "ETMN",
+            "links": [
+                {
+                    "category": "Charts",
+                    "name": "Charts (IFR)",
+                    "url": "https://chartfox.org/ETMN"
+                },
+                {
+                    "category": "Charts",
+                    "name": "Charts (VFR)",
+                    "url": "https://www.vfraip.de/?ETMN"
+                },
+                {
+                    "category": "Briefing",
+                    "name": "Pilotbriefing",
+                    "url": "https://vats.im/etmn-briefing"
+                }
+            ]
+        },
+        {
             "icao": "ETNL",
             "links": [
                 {
@@ -156,12 +271,82 @@
             ]
         },
         {
+            "icao": "EDVE",
+            "links": [
+                {
+                    "category": "Charts",
+                    "name": "Charts (IFR)",
+                    "url": "https://chartfox.org/EDVE"
+                },
+                {
+                    "category": "Charts",
+                    "name": "Charts (VFR)",
+                    "url": "https://www.vfraip.de/?EDVE"
+                },
+                {
+                    "category": "Briefing",
+                    "name": "Pilotbriefing",
+                    "url": "https://vats.im/edve-briefing"
+                },
+                {
+                    "category": "Briefing",
+                    "name": "vACDM Pilot Guide",
+                    "url": "https://knowledgebase.vatsim-germany.org/books/vacdm/page/vacdm-pilot-guide"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "MSFS Freeware by TeamEDVE",
+                    "url": "https://flightsim.to/file/23933/flughafen-braunschweig-wolfsburg-edve/"
+                }
+            ]
+        },
+        {
             "icao": "EDAY",
             "links": [
                 {
                     "category": "Charts",
                     "name": "Charts",
                     "url": "https://chartfox.org/EDAY"
+                }
+            ]
+        },
+        {
+            "icao": "EDDV",
+            "links": [
+                {
+                    "category": "Charts",
+                    "name": "Charts (IFR)",
+                    "url": "https://chartfox.org/EDDV"
+                },
+                {
+                    "category": "Charts",
+                    "name": "Charts (VFR)",
+                    "url": "https://www.vfraip.de/?EDDV"
+                },
+                {
+                    "category": "Briefing",
+                    "name": "Pilotbriefing",
+                    "url": "https://knowledgebase.vatsim-germany.org/books/airports-bremen-fir-edww/chapter/eddv-hannover"
+                },
+                {
+                    "category": "Briefing",
+                    "name": "vACDM Pilot Guide",
+                    "url": "https://knowledgebase.vatsim-germany.org/books/vacdm/page/vacdm-pilot-guide"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "MSFS Freeware by Friedolien",
+                    "url": "https://flightsim.to/file/68217/crossfeed-eddv-hannover-airport-alpha"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "MSFS Payware by Justsim",
+                    "url": "https://secure.simmarket.com/justsim-hannover-airport-eddv-msfs.phtml"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "X-Plane Payware by Justsim",
+                    "url": "https://secure.simmarket.com/justsim-hannover-airport_x-plane-11.phtml"
                 }
             ]
         },
