@@ -7,6 +7,11 @@ name = "Charts (IFR)"
 url = "https://chartfox.org/EDGS"
 
 [[airport.links]]
+category = "Charts"
+name = "Charts (VFR)"
+url = "https://www.vfraip.de/?EDGS"
+
+[[airport.links]]
 category = "Scenery"
 name = "MSFS Freeware by uli057"
 url = "https://flightsim.to/file/22730/edgs-airport-siegerland-burbach"
