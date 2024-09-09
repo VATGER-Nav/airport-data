@@ -50,5 +50,4 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add .
-          git commit -m "Add generated files from main branch"
-          git push origin production
+          git diff-index --quiet HEAD || (git commit -a -m "Add generated files from main branch" --allow-empty && git push origin production)
