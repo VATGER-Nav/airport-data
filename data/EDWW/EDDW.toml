@@ -7,6 +7,26 @@ name = "Charts (IFR)"
 url = "https://chartfox.org/EDDW"
 
 [[airport.links]]
+category = "Charts"
+name = "Charts (VFR)"
+url = "https://www.vfraip.de/?EDDW"
+
+[[airport.links]]
 category = "Scenery"
-name = "MSFS Scenery by PaulEDDW"
+name = "MSFS Freeware by PaulEDDW"
 url = "https://flightsim.to/file/25707/bremen-airport-hans-koschnick-eddw"
+
+[[airport.links]]
+category = "Scenery"
+name = "MSFS Payware by BMWorld"
+url = "https://secure.simmarket.com/beautiful-model-of-the-world-eddw-bremen-airport-msfs.phtml"
+
+[[airport.links]]
+category = "Scenery"
+name = "MSFS Payware by FSDG"
+url = "https://secure.simmarket.com/aerosoft-fsdg-bremen-msfs.phtml"
+
+[[airport.links]]
+category = "Scenery"
+name = "X-Plane Payware by FSDG"
+url = "https://secure.simmarket.com/fsdg-bremen-xp-x-plane-11.phtml"
