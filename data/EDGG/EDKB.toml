@@ -1,0 +1,17 @@
+[[airport]]
+icao = "EDKB"
+
+[[airport.links]]
+category = "Charts"
+name = "Charts (VFR)"
+url = "https://www.vfraip.de/?EDKB"
+
+[[airport.links]]
+category = "Scenery"
+name = "MSFS Freeware by GSMS"
+url = "https://flightsim.to/file/78384/edkb-bonn-hangelar-v2"
+
+[[airport.links]]
+category = "Scenery"
+name = "X-Plane Freeware by Huey Pilot"
+url = "https://flightsim.to/file/78384/edkb-bonn-hangelar-v2"
