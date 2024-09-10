@@ -1,0 +1,7 @@
+[[airport]]
+icao = "EDOI"
+
+[[airport.links]]
+category = "Charts"
+name = "Charts (VFR)"
+url = "https://www.vfraip.de/?EDOI"
