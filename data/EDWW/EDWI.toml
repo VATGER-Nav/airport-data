@@ -1,0 +1,17 @@
+[[airport]]
+icao = "EDWI"
+
+[[airport.links]]
+category = "Charts"
+name = "Charts (IFR)"
+url = "https://chartfox.org/EDWI"
+
+[[airport.links]]
+category = "Charts"
+name = "Charts (VFR)"
+url = "https://www.vfraip.de/?EDWI"
+
+[[airport.links]]
+category = "Scenery"
+name = "MSFS Freeware by reepelo"
+url = "https://flightsim.to/file/33812/edwi-jadeweser-airport-wilhelmshaven"
