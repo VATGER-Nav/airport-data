@@ -1,0 +1,22 @@
+[[airport]]
+icao = "EDHK"
+
+[[airport.links]]
+category = "Charts"
+name = "Charts (IFR)"
+url = "https://chartfox.org/EDHK"
+
+[[airport.links]]
+category = "Charts"
+name = "Charts (VFR)"
+url = "https://www.vfraip.de/?EDHK"
+
+[[airport.links]]
+category = "Scenery"
+name = "MSFS Freeware by MrMo (SU15 brkn)"
+url = "https://flightsim.to/file/1920/edhk-kiel-holtenau"
+
+[[airport.links]]
+category = "Scenery"
+name = "X-Plane Freeware by MrMo"
+url = "https://flight-sim.org/filebase/index.php?entry/1360-edhk-kiel-holtenau/"
