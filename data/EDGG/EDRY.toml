@@ -1,0 +1,17 @@
+[[airport]]
+icao = "EDRY"
+
+[[airport.links]]
+category = "Charts"
+name = "Charts (VFR)"
+url = "https://www.vfraip.de/?EDRY"
+
+[[airport.links]]
+category = "Scenery"
+name = "MSFS Freeware by fabs79"
+url = "https://flightsim.to/file/31761/edry-airport-speyer-ludwigshafen-and-technology-museum"
+
+[[airport.links]]
+category = "Scenery"
+name = "MSFS Freeware by reepelo"
+url = "https://flightsim.to/file/31315/edry-speyer"
