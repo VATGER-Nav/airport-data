@@ -1,0 +1,22 @@
+[[airport]]
+icao = "EDWG"
+
+[[airport.links]]
+category = "Charts"
+name = "Charts (VFR)"
+url = "https://www.vfraip.de/?EDWG"
+
+[[airport.links]]
+category = "Scenery"
+name = "X-Plane Freeware by tdg"
+url = "https://forums.x-plane.org/index.php?/files/file/48364-edwg-wangerooge-airport-germany/"
+
+[[airport.links]]
+category = "Scenery"
+name = "MSFS Payware by Stairport"
+url = "https://www.aerosoft.com/de/shop/flight/microsoft-flight-simulator/msfs-szenerien/msfs-europa/3250/aerosoft-airfields-ostfriesische-inseln"
+
+[[airport.links]]
+category = "Scenery"
+name = "X-Plane Payware by Staiport"
+url = "https://www.aerosoft.com/de/shop/flight/x-plane/x-plane-11/szenerien/xp-europa/3151/german-islands-1-ostfriesland-xp"
