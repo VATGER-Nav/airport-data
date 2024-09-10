@@ -1,0 +1,32 @@
+[[airport]]
+icao = "EDAH"
+
+[[airport.links]]
+category = "Charts"
+name = "Charts (IFR)"
+url = "https://chartfox.org/EDAH"
+
+[[airport.links]]
+category = "Charts"
+name = "Charts (VFR)"
+url = "https://www.vfraip.de/?EDAH"
+
+[[airport.links]]
+category = "Briefing"
+name = "Pilotbriefing"
+url = "https://vats.im/edah-briefing"
+
+[[airport.links]]
+category = "Scenery"
+name = "MSFS Freeware by tgolab"
+url = "https://flightsim.to/file/59879/edah-heringsdorf-airport"
+
+[[airport.links]]
+category = "Scenery"
+name = "X-Plane Freeware by Captain7/Stairport"
+url = "https://forums.x-plane.org/index.php?/files/file/39089-captain7-edah-heringsdorf/"
+
+[[airport.links]]
+category = "Scenery"
+name = "MSFS Payware by SPINOZA"
+url = "https://secure.simmarket.com/spinoza-edah-heringsdorf-msfs.phtml"
