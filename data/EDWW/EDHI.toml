@@ -1,0 +1,22 @@
+[[airport]]
+icao = "EDHI"
+
+[[airport.links]]
+category = "Charts"
+name = "Charts (IFR)"
+url = "https://chartfox.org/EDHI"
+
+[[airport.links]]
+category = "Charts"
+name = "Charts (VFR)"
+url = "https://www.vfraip.de/?EDHI"
+
+[[airport.links]]
+category = "Scenery"
+name = "MSFS Freeware by SimDocks"
+url = "https://forum.simdocks.de/filebase/file/228-airbus-hamburg-edhi/"
+
+[[airport.links]]
+category = "Scenery"
+name = "X-Plane Freeware by qfmusiq"
+url = "https://forums.x-plane.org/index.php?/files/file/71750-edhi-airbus-hamburg-finkenwerder/"
