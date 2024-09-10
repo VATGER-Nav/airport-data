@@ -1,0 +1,12 @@
+[[airport]]
+icao = "EDTF"
+
+[[airport.links]]
+category = "Charts"
+name = "Charts (VFR)"
+url = "https://www.vfraip.de/?EDTF"
+
+[[airport.links]]
+category = "Scenery"
+name = "MSFS Freeware by airsplitter"
+url = "https://flightsim.to/file/6416/edtf-city-airport-freiburg"
