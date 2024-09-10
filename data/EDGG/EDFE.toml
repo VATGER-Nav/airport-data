@@ -1,0 +1,27 @@
+[[airport]]
+icao = "EDFE"
+
+[[airport.links]]
+category = "Charts"
+name = "Charts (IFR)"
+url = "https://chartfox.org/EDFE"
+
+[[airport.links]]
+category = "Charts"
+name = "Charts (VFR)"
+url = "https://www.vfraip.de/?EDFE"
+
+[[airport.links]]
+category = "Scenery"
+name = "MSFS Payware by FlyingD"
+url = "https://secure.simmarket.com/flyingd-frankfurt-egelsbach-(edfe)-der-flughafen-der-schoenen-und-reichen-msfs.phtml"
+
+[[airport.links]]
+category = "Scenery"
+name = "WU18 FIX for FlyingD"
+url = "https://de.flightsim.to/file/65718/frankfurt-egelsbach-airfield-edfe-enhancement"
+
+[[airport.links]]
+category = "Scenery"
+name = "X-Plane Payware by Stairport"
+url = "https://www.aerosoft.com/de/shop/flight/x-plane/x-plane-11/szenerien/xp-europa/1586/airport-frankfurt-egelsbach-xp"
