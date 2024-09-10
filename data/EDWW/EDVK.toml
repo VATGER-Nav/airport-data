@@ -1,0 +1,22 @@
+[[airport]]
+icao = "EDVK"
+
+[[airport.links]]
+category = "Charts"
+name = "Charts (IFR)"
+url = "https://chartfox.org/EDVK"
+
+[[airport.links]]
+category = "Charts"
+name = "Charts (VFR)"
+url = "https://www.vfraip.de/?EDVK"
+
+[[airport.links]]
+category = "Briefing"
+name = "Pilotbriefing"
+url = "https://vats.im/edvk-briefing"
+
+[[airport.links]]
+category = "Scenery"
+name = "X-Plane Payware by Aerosoft"
+url = "https://www.aerosoft.com/de/shop/flight/x-plane/x-plane-11/szenerien/xp-europa/3524/airport-kassel-xp"
