@@ -11,12 +11,7 @@
                 {
                     "category": "Charts",
                     "name": "Charts (VFR)",
-                    "url": "https://www.vfraip.de/?EDDE"
-                },
-                {
-                    "category": "Briefing",
-                    "name": "Pilotbriefing",
-                    "url": "https://vats.im/edde-briefing"
+                    "url": "https://aip.dfs.de/BasicVFR/pages/C019BE.html"
                 },
                 {
                     "category": "Scenery",
@@ -41,7 +36,7 @@
                 {
                     "category": "Charts",
                     "name": "Charts (VFR)",
-                    "url": "https://www.vfraip.de/?EDDM"
+                    "url": "https://aip.dfs.de/BasicVFR/pages/C01A58.html"
                 },
                 {
                     "category": "Briefing",
@@ -81,12 +76,7 @@
                 {
                     "category": "Charts",
                     "name": "Charts (VFR)",
-                    "url": "https://www.vfraip.de/?EDDN"
-                },
-                {
-                    "category": "Briefing",
-                    "name": "Pilotbriefing",
-                    "url": "https://vats.im/eddn-briefing"
+                    "url": "https://aip.dfs.de/BasicVFR/pages/C01A74.html"
                 },
                 {
                     "category": "Scenery",
@@ -116,17 +106,7 @@
                 {
                     "category": "Charts",
                     "name": "Charts (VFR)",
-                    "url": "https://www.vfraip.de/?EDDP"
-                },
-                {
-                    "category": "Briefing",
-                    "name": "Pilotbriefing",
-                    "url": "https://vats.im/eddp-briefing"
-                },
-                {
-                    "category": "Briefing",
-                    "name": "vACDM Pilot Guide",
-                    "url": "https://knowledgebase.vatsim-germany.org/books/vacdm/page/vacdm-pilot-guide"
+                    "url": "https://aip.dfs.de/BasicVFR/pages/C01A37.html"
                 },
                 {
                     "category": "Scenery",
@@ -146,12 +126,7 @@
                 {
                     "category": "Charts",
                     "name": "Charts (VFR)",
-                    "url": "https://www.vfraip.de/?EDJA"
-                },
-                {
-                    "category": "Briefing",
-                    "name": "Pilotbriefing",
-                    "url": "https://vats.im/edja-briefing"
+                    "url": "https://aip.dfs.de/BasicVFR/pages/C01A4A.html"
                 },
                 {
                     "category": "Scenery",
@@ -171,12 +146,7 @@
                 {
                     "category": "Charts",
                     "name": "Charts (VFR)",
-                    "url": "https://www.vfraip.de/?EDDC"
-                },
-                {
-                    "category": "Briefing",
-                    "name": "Pilotbriefing",
-                    "url": "https://vats.im/eddc-briefing"
+                    "url": "https://aip.dfs.de/BasicVFR/pages/C019AF.html"
                 },
                 {
                     "category": "Scenery",
@@ -206,12 +176,7 @@
                 {
                     "category": "Charts",
                     "name": "Charts (VFR)",
-                    "url": "https://www.vfraip.de/?EDMA"
-                },
-                {
-                    "category": "Briefing",
-                    "name": "Pilotbriefing",
-                    "url": "https://vats.im/edma-briefing"
+                    "url": "https://aip.dfs.de/BasicVFR/pages/C01962.html"
                 },
                 {
                     "category": "Scenery",
