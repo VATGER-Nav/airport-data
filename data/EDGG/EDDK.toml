@@ -12,6 +12,11 @@ name = "Charts (VFR)"
 url = "https://aip.dfs.de/BasicVFR/pages/C01A1F.html"
 
 [[airport.links]]
+category = "Charts"
+name = "Charts (MIL)"
+url = "https://www.milais.org/publications.php"
+
+[[airport.links]]
 category = "Briefing"
 name = "Pilotbriefing"
 url = "https://vats.im/eddk"
