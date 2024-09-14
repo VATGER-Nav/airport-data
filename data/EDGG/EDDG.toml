@@ -9,12 +9,12 @@ url = "https://chartfox.org/EDDG"
 [[airport.links]]
 category = "Charts"
 name = "Charts (VFR)"
-url = "https://www.vfraip.de/?EDDG"
+url = "https://aip.dfs.de/BasicVFR/pages/C01A59.html"
 
 [[airport.links]]
 category = "Briefing"
 name = "Pilotbriefing"
-url = "https://knowledgebase.vatsim-germany.org/books/airports-langen-fir-edgg/chapter/eddg-munsterosnabruck"
+url = "https://vats.im/edgg"
 
 [[airport.links]]
 category = "Scenery"
