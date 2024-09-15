@@ -96,6 +96,36 @@
             ]
         },
         {
+            "icao": "EDNY",
+            "links": [
+                {
+                    "category": "Charts",
+                    "name": "Charts (IFR)",
+                    "url": "https://chartfox.org/EDNY"
+                },
+                {
+                    "category": "Charts",
+                    "name": "Charts (VFR)",
+                    "url": "https://aip.dfs.de/BasicVFR/pages/C019CA.html"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "MSFS Payware by Aerosoft",
+                    "url": "https://www.aerosoft.com/de/shop/flight/microsoft-flight-simulator/msfs-szenerien/msfs-europa/3385/aerosoft-airport-friedrichshafen"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "MSFS Freeware by BaggySimi",
+                    "url": "https://flightsim.to/file/36234/friedrichshafen-airport-edny-enhanced"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "X-Plane Payware by Aerosoft",
+                    "url": "https://www.aerosoft.com/de/shop/flight/x-plane/x-plane-11/szenerien/xp-europa/2444/airport-friedrichshafen-xp"
+                }
+            ]
+        },
+        {
             "icao": "EDDP",
             "links": [
                 {
@@ -681,6 +711,41 @@
             ]
         },
         {
+            "icao": "EDTD",
+            "links": [
+                {
+                    "category": "Charts",
+                    "name": "Charts (IFR)",
+                    "url": "https://chartfox.org/EDTD"
+                },
+                {
+                    "category": "Charts",
+                    "name": "Charts (VFR)",
+                    "url": "https://aip.dfs.de/BasicVFR/pages/C019AB.html"
+                }
+            ]
+        },
+        {
+            "icao": "EDQG",
+            "links": [
+                {
+                    "category": "Charts",
+                    "name": "Charts (IFR)",
+                    "url": "https://chartfox.org/EDQG"
+                },
+                {
+                    "category": "Charts",
+                    "name": "Charts (VFR)",
+                    "url": "https://aip.dfs.de/BasicVFR/pages/C019D3.html"
+                },
+                {
+                    "category": "Briefing",
+                    "name": "Pilotbriefing",
+                    "url": "https://vats.im/edqg"
+                }
+            ]
+        },
+        {
             "icao": "EDLP",
             "links": [
                 {
@@ -691,12 +756,12 @@
                 {
                     "category": "Charts",
                     "name": "Charts (VFR)",
-                    "url": "https://www.vfraip.de/?EDLP"
+                    "url": "https://aip.dfs.de/BasicVFR/pages/C01A84.html"
                 },
                 {
                     "category": "Briefing",
                     "name": "Pilotbriefing",
-                    "url": "https://knowledgebase.vatsim-germany.org/books/airports-langen-fir-edgg/chapter/edlp-paderbornlippstadt"
+                    "url": "https://vats.im/edlp"
                 },
                 {
                     "category": "Scenery",
@@ -721,22 +786,17 @@
                 {
                     "category": "Charts",
                     "name": "Charts (VFR)",
-                    "url": "https://www.vfraip.de/?EDDL"
+                    "url": "https://aip.dfs.de/BasicVFR/pages/C019B0.html"
                 },
                 {
                     "category": "Briefing",
                     "name": "Pilotbriefing",
-                    "url": "https://knowledgebase.vatsim-germany.org/books/airports-langen-fir-edgg/chapter/eddl-dusseldorf"
+                    "url": "https://vats.im/eddl"
                 },
                 {
                     "category": "Briefing",
                     "name": "vACDM Pilot Guide",
-                    "url": "https://knowledgebase.vatsim-germany.org/books/vacdm/page/vacdm-pilot-guide"
-                },
-                {
-                    "category": "Scenery",
-                    "name": "MSFS Freeware by hu277",
-                    "url": "https://flightsim.to/file/7172/eddl-enhancement-v0-1"
+                    "url": "https://vacdm.net/docs/pilot"
                 },
                 {
                     "category": "Scenery",
@@ -747,6 +807,11 @@
                     "category": "Scenery",
                     "name": "MSFS Payware by Simbreeze",
                     "url": "https://secure.simmarket.com/simbreeze-duesseldorf-de-msfs.phtml"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "MSFS Freeware by hu277",
+                    "url": "https://flightsim.to/file/7172/eddl-enhancement-v0-1"
                 },
                 {
                     "category": "Scenery",
@@ -766,22 +831,17 @@
                 {
                     "category": "Charts",
                     "name": "Charts (VFR)",
-                    "url": "https://www.vfraip.de/?EDDK"
+                    "url": "https://aip.dfs.de/BasicVFR/pages/C01A1F.html"
+                },
+                {
+                    "category": "Charts",
+                    "name": "Charts (MIL)",
+                    "url": "https://www.milais.org/"
                 },
                 {
                     "category": "Briefing",
                     "name": "Pilotbriefing",
-                    "url": "https://knowledgebase.vatsim-germany.org/books/airports-langen-fir-edgg/chapter/eddk-kolnbonn"
-                },
-                {
-                    "category": "Briefing",
-                    "name": "vACDM Pilot Guide",
-                    "url": "https://knowledgebase.vatsim-germany.org/books/vacdm/page/vacdm-pilot-guide"
-                },
-                {
-                    "category": "Scenery",
-                    "name": "X-Plane Freeware by FLYAGI",
-                    "url": "https://flight-sim.org/filebase/index.php?entry/1410-eddk-cologne-bonn-xp12/"
+                    "url": "https://vats.im/eddk"
                 },
                 {
                     "category": "Scenery",
@@ -792,6 +852,11 @@
                     "category": "Scenery",
                     "name": "X-Plane Payware by Aerosoft",
                     "url": "https://www.aerosoft.com/de/shop/flight/x-plane/x-plane-11/szenerien/xp-europa/2662/airport-koeln/bonn-xp"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "X-Plane Freeware by FLYAGI",
+                    "url": "https://flight-sim.org/filebase/index.php?entry/1410-eddk-cologne-bonn-xp12/"
                 }
             ]
         },
@@ -806,22 +871,17 @@
                 {
                     "category": "Charts",
                     "name": "Charts (VFR)",
-                    "url": "https://www.vfraip.de/?EDDS"
+                    "url": "https://aip.dfs.de/BasicVFR/pages/C01AD3.html"
                 },
                 {
                     "category": "Briefing",
                     "name": "Pilotbriefing",
-                    "url": "https://knowledgebase.vatsim-germany.org/books/airports-langen-fir-edgg/chapter/edds-stuttgart"
+                    "url": "https://vats.im/edds"
                 },
                 {
                     "category": "Briefing",
                     "name": "vACDM Pilot Guide",
-                    "url": "https://knowledgebase.vatsim-germany.org/books/vacdm/page/vacdm-pilot-guide"
-                },
-                {
-                    "category": "Scenery",
-                    "name": "MSFS Payware by RDPresets",
-                    "url": "https://contrail.shop/products/edds-stuttgart-international-airport-msfs"
+                    "url": "https://vacdm.net/docs/pilot"
                 },
                 {
                     "category": "Scenery",
@@ -830,18 +890,23 @@
                 },
                 {
                     "category": "Scenery",
+                    "name": "MSFS Payware by RDPresets",
+                    "url": "https://contrail.shop/products/edds-stuttgart-international-airport-msfs"
+                },
+                {
+                    "category": "Scenery",
                     "name": "MSFS Payware by FeelThere",
                     "url": "https://secure.simmarket.com/feelthere-edds-stuttgart-international-airport-msfs.phtml"
                 },
                 {
                     "category": "Scenery",
-                    "name": "X-Plane Payware by FeelThere",
-                    "url": "https://secure.simmarket.com/feelthere-edds-stuttgart-international-airport-x-plane-11.phtml"
+                    "name": "X-Plane Payware by Justsim",
+                    "url": "https://secure.simmarket.com/justsim-stuttgart-airport-x-plane-11.phtml"
                 },
                 {
                     "category": "Scenery",
-                    "name": "X-Plane Payware by Justsim",
-                    "url": "https://secure.simmarket.com/justsim-stuttgart-airport-x-plane-11.phtml"
+                    "name": "X-Plane Payware by FeelThere",
+                    "url": "https://secure.simmarket.com/feelthere-edds-stuttgart-international-airport-x-plane-11.phtml"
                 }
             ]
         },
@@ -851,7 +916,7 @@
                 {
                     "category": "Charts",
                     "name": "Charts (VFR)",
-                    "url": "https://www.vfraip.de/?EDTF"
+                    "url": "https://aip.dfs.de/BasicVFR/pages/C019C9.html"
                 },
                 {
                     "category": "Scenery",
@@ -861,12 +926,72 @@
             ]
         },
         {
+            "icao": "EDTY",
+            "links": [
+                {
+                    "category": "Charts",
+                    "name": "Charts (IFR)",
+                    "url": "https://chartfox.org/EDTY"
+                },
+                {
+                    "category": "Charts",
+                    "name": "Charts (VFR)",
+                    "url": "https://aip.dfs.de/BasicVFR/pages/C01AB6.html"
+                },
+                {
+                    "category": "Briefing",
+                    "name": "Pilotbriefing",
+                    "url": "https://vats.im/edty"
+                }
+            ]
+        },
+        {
+            "icao": "ETAD",
+            "links": [
+                {
+                    "category": "Charts",
+                    "name": "Charts",
+                    "url": "https://www.milais.org/"
+                }
+            ]
+        },
+        {
+            "icao": "EDTM",
+            "links": [
+                {
+                    "category": "Charts",
+                    "name": "Charts (IFR)",
+                    "url": "https://chartfox.org/EDTM"
+                },
+                {
+                    "category": "Charts",
+                    "name": "Charts (VFR)",
+                    "url": "https://aip.dfs.de/BasicVFR/pages/C01A4C.html"
+                }
+            ]
+        },
+        {
+            "icao": "ETAR",
+            "links": [
+                {
+                    "category": "Charts",
+                    "name": "Charts",
+                    "url": "https://www.milais.org/"
+                }
+            ]
+        },
+        {
             "icao": "EDRY",
             "links": [
                 {
                     "category": "Charts",
+                    "name": "Charts (IFR)",
+                    "url": "https://chartfox.org/EDRY"
+                },
+                {
+                    "category": "Charts",
                     "name": "Charts (VFR)",
-                    "url": "https://www.vfraip.de/?EDRY"
+                    "url": "https://aip.dfs.de/BasicVFR/pages/C01AC7.html"
                 },
                 {
                     "category": "Scenery",
@@ -881,6 +1006,16 @@
             ]
         },
         {
+            "icao": "ETEB",
+            "links": [
+                {
+                    "category": "Charts",
+                    "name": "Charts",
+                    "url": "https://www.milais.org/"
+                }
+            ]
+        },
+        {
             "icao": "EDDF",
             "links": [
                 {
@@ -891,17 +1026,22 @@
                 {
                     "category": "Charts",
                     "name": "Charts (VFR)",
-                    "url": "https://www.vfraip.de/?EDDF"
+                    "url": "https://aip.dfs.de/BasicVFR/pages/C019C8.html"
                 },
                 {
                     "category": "Briefing",
                     "name": "Pilotbriefing",
-                    "url": "https://knowledgebase.vatsim-germany.org/books/airports-langen-fir-edgg/chapter/eddf-frankfurtmain"
+                    "url": "https://vats.im/eddf"
                 },
                 {
                     "category": "Briefing",
                     "name": "vACDM Pilot Guide",
-                    "url": "https://knowledgebase.vatsim-germany.org/books/vacdm/page/vacdm-pilot-guide"
+                    "url": "https://vacdm.net/docs/pilot"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "MSFS Payware by Aerosoft",
+                    "url": "https://www.aerosoft.com/de/shop/flight/microsoft-flight-simulator/msfs-szenerien/msfs-europa/4398/aerosoft-mega-airport-frankfurt"
                 },
                 {
                     "category": "Scenery",
@@ -915,48 +1055,8 @@
                 },
                 {
                     "category": "Scenery",
-                    "name": "MSFS Payware by Aerosoft",
-                    "url": "https://www.aerosoft.com/de/shop/flight/microsoft-flight-simulator/msfs-szenerien/msfs-europa/4398/aerosoft-mega-airport-frankfurt"
-                },
-                {
-                    "category": "Scenery",
                     "name": "X-Plane Payware by Aerosoft",
                     "url": "https://www.aerosoft.com/de/shop/flight/x-plane/x-plane-11/szenerien/xp-europa/2226/airport-frankfurt-v2-xp"
-                }
-            ]
-        },
-        {
-            "icao": "EDNY",
-            "links": [
-                {
-                    "category": "Charts",
-                    "name": "Charts (IFR)",
-                    "url": "https://chartfox.org/EDNY"
-                },
-                {
-                    "category": "Charts",
-                    "name": "Charts (VFR)",
-                    "url": "https://www.vfraip.de/?EDNY"
-                },
-                {
-                    "category": "Briefing",
-                    "name": "Pilotbriefing",
-                    "url": "https://vats.im/edny-briefing"
-                },
-                {
-                    "category": "Scenery",
-                    "name": "MSFS Freeware by BaggySimi",
-                    "url": "https://flightsim.to/file/36234/friedrichshafen-airport-edny-enhanced"
-                },
-                {
-                    "category": "Scenery",
-                    "name": "MSFS Payware by Aerosoft",
-                    "url": "https://www.aerosoft.com/de/shop/flight/microsoft-flight-simulator/msfs-szenerien/msfs-europa/3385/aerosoft-airport-friedrichshafen"
-                },
-                {
-                    "category": "Scenery",
-                    "name": "X-Plane Payware by Aerosoft",
-                    "url": "https://www.aerosoft.com/de/shop/flight/x-plane/x-plane-11/szenerien/xp-europa/2444/airport-friedrichshafen-xp"
                 }
             ]
         },
@@ -971,22 +1071,12 @@
                 {
                     "category": "Charts",
                     "name": "Charts (VFR)",
-                    "url": "https://www.vfraip.de/?EDFH"
+                    "url": "https://aip.dfs.de/BasicVFR/pages/C019C7.html"
                 },
                 {
                     "category": "Briefing",
                     "name": "Pilotbriefing",
-                    "url": "https://knowledgebase.vatsim-germany.org/books/airports-langen-fir-edgg/chapter/edfh-frankfurt-hahn"
-                },
-                {
-                    "category": "Scenery",
-                    "name": "MSFS Freeware by pandamisha",
-                    "url": "https://flightsim.to/file/46436/frankfurt-hahn-airport-edfh"
-                },
-                {
-                    "category": "Scenery",
-                    "name": "X-Plane Freeware by chrisru",
-                    "url": "https://forums.x-plane.org/index.php?/files/file/38260-frankfurt-hahn-airport/"
+                    "url": "https://vats.im/edfh"
                 },
                 {
                     "category": "Scenery",
@@ -995,8 +1085,18 @@
                 },
                 {
                     "category": "Scenery",
+                    "name": "MSFS Freeware by pandamisha",
+                    "url": "https://flightsim.to/file/46436/frankfurt-hahn-airport-edfh"
+                },
+                {
+                    "category": "Scenery",
                     "name": "X-Plane Payware by Aerosoft",
                     "url": "https://www.aerosoft.com/de/shop/flight/x-plane/x-plane-11/sceneries/xp-europe/732/airport-frankfurt-hahn-xp"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "X-Plane Freeware by chrisru",
+                    "url": "https://forums.x-plane.org/index.php?/files/file/38260-frankfurt-hahn-airport/"
                 }
             ]
         },
@@ -1011,12 +1111,12 @@
                 {
                     "category": "Charts",
                     "name": "Charts (VFR)",
-                    "url": "https://www.vfraip.de/?EDDR"
+                    "url": "https://aip.dfs.de/BasicVFR/pages/C01AA7.html"
                 },
                 {
                     "category": "Briefing",
                     "name": "Pilotbriefing",
-                    "url": "https://knowledgebase.vatsim-germany.org/books/airports-langen-fir-edgg/chapter/eddr-saarbrucken"
+                    "url": "https://vats.im/eddr"
                 },
                 {
                     "category": "Scenery",
@@ -1036,7 +1136,7 @@
                 {
                     "category": "Charts",
                     "name": "Charts (VFR)",
-                    "url": "https://www.vfraip.de/?EDGS"
+                    "url": "https://aip.dfs.de/BasicVFR/pages/C01AC1.html"
                 },
                 {
                     "category": "Scenery",
@@ -1055,13 +1155,8 @@
             "links": [
                 {
                     "category": "Charts",
-                    "name": "Charts (IFR)",
-                    "url": "https://chartfox.org/EDLE"
-                },
-                {
-                    "category": "Charts",
                     "name": "Charts (VFR)",
-                    "url": "https://www.vfraip.de/?EDLE"
+                    "url": "https://aip.dfs.de/BasicVFR/pages/C0198B.html"
                 },
                 {
                     "category": "Scenery",
@@ -1076,6 +1171,26 @@
             ]
         },
         {
+            "icao": "ETNG",
+            "links": [
+                {
+                    "category": "Charts",
+                    "name": "Charts",
+                    "url": "https://www.milais.org/"
+                }
+            ]
+        },
+        {
+            "icao": "ETSB",
+            "links": [
+                {
+                    "category": "Charts",
+                    "name": "Charts",
+                    "url": "https://www.milais.org/"
+                }
+            ]
+        },
+        {
             "icao": "EDSB",
             "links": [
                 {
@@ -1086,22 +1201,72 @@
                 {
                     "category": "Charts",
                     "name": "Charts (VFR)",
-                    "url": "https://www.vfraip.de/?EDSB"
+                    "url": "https://aip.dfs.de/BasicVFR/pages/C01A14.html"
                 },
                 {
                     "category": "Briefing",
                     "name": "Pilotbriefing",
-                    "url": "https://knowledgebase.vatsim-germany.org/books/airports-langen-fir-edgg/chapter/edsb-karlsruhebaden-baden"
-                },
-                {
-                    "category": "Scenery",
-                    "name": "X-Plane Freeware by AeroX",
-                    "url": "https://forums.x-plane.org/index.php?/files/file/68472-edsb-fkb-baden-airpark-v2-by-aerox-simulations-original-file-download/"
+                    "url": "https://vats.im/edsb"
                 },
                 {
                     "category": "Scenery",
                     "name": "MSFS Payware by Aerosoft",
                     "url": "https://www.aerosoft.com/de/shop/flight/microsoft-flight-simulator/msfs-szenerien/msfs-europa/3934/aerosoft-airport-karlsruhe/baden-baden"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "X-Plane Freeware by AeroX",
+                    "url": "https://forums.x-plane.org/index.php?/files/file/68472-edsb-fkb-baden-airpark-v2-by-aerox-simulations-original-file-download/"
+                }
+            ]
+        },
+        {
+            "icao": "ETNN",
+            "links": [
+                {
+                    "category": "Charts",
+                    "name": "Charts",
+                    "url": "https://www.milais.org/"
+                },
+                {
+                    "category": "Briefing",
+                    "name": "Pilotbriefing",
+                    "url": "https://vats.im/etnn"
+                }
+            ]
+        },
+        {
+            "icao": "ETHF",
+            "links": [
+                {
+                    "category": "Charts",
+                    "name": "Charts",
+                    "url": "https://www.milais.org/"
+                }
+            ]
+        },
+        {
+            "icao": "EDFQ",
+            "links": [
+                {
+                    "category": "Charts",
+                    "name": "Charts (IFR)",
+                    "url": "https://chartfox.org/EDFQ"
+                },
+                {
+                    "category": "Charts",
+                    "name": "Charts (VFR)",
+                    "url": "https://aip.dfs.de/BasicVFR/pages/C01953.html"
+                }
+            ]
+        },
+        {
+            "icao": "ETOU",
+            "links": [
+                {
+                    "category": "Charts",
+                    "name": "Charts",
+                    "url": "https://www.milais.org/"
                 }
             ]
         },
@@ -1111,7 +1276,7 @@
                 {
                     "category": "Charts",
                     "name": "Charts (VFR)",
-                    "url": "https://www.vfraip.de/?EDKB"
+                    "url": "https://aip.dfs.de/BasicVFR/pages/C0198B.html"
                 },
                 {
                     "category": "Scenery",
@@ -1136,12 +1301,17 @@
                 {
                     "category": "Charts",
                     "name": "Charts (VFR)",
-                    "url": "https://www.vfraip.de/?EDLN"
+                    "url": "https://aip.dfs.de/BasicVFR/pages/C01A52.html"
                 },
                 {
                     "category": "Briefing",
                     "name": "Pilotbriefing",
-                    "url": "https://knowledgebase.vatsim-germany.org/books/airports-langen-fir-edgg/chapter/edln-monchengladbach"
+                    "url": "https://vats.im/edln"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "MSFS Payware by SPINOZA",
+                    "url": "https://secure.simmarket.com/spinoza-edln-moenchengladbach-msfs.phtml"
                 },
                 {
                     "category": "Scenery",
@@ -1157,11 +1327,21 @@
                     "category": "Scenery",
                     "name": "X-Plane Freeware by CountCrash",
                     "url": "https://forums.x-plane.org/index.php?/files/file/86343-edln-m%C3%B6nchengladbach-for-xp-12/"
+                }
+            ]
+        },
+        {
+            "icao": "EDRZ",
+            "links": [
+                {
+                    "category": "Charts",
+                    "name": "Charts (IFR)",
+                    "url": "https://chartfox.org/EDRZ"
                 },
                 {
-                    "category": "Scenery",
-                    "name": "MSFS Payware by SPINOZA",
-                    "url": "https://secure.simmarket.com/spinoza-edln-moenchengladbach-msfs.phtml"
+                    "category": "Charts",
+                    "name": "Charts (VFR)",
+                    "url": "https://aip.dfs.de/BasicVFR/pages/C01B05.html"
                 }
             ]
         },
@@ -1176,12 +1356,12 @@
                 {
                     "category": "Charts",
                     "name": "Charts (VFR)",
-                    "url": "https://www.vfraip.de/?EDLV"
+                    "url": "https://aip.dfs.de/BasicVFR/pages/C01A69.html"
                 },
                 {
                     "category": "Briefing",
                     "name": "Pilotbriefing",
-                    "url": "https://knowledgebase.vatsim-germany.org/books/airports-langen-fir-edgg/chapter/edlv-niederrhein"
+                    "url": "https://vats.im/edlv"
                 },
                 {
                     "category": "Scenery",
@@ -1206,12 +1386,12 @@
                 {
                     "category": "Charts",
                     "name": "Charts (VFR)",
-                    "url": "https://www.vfraip.de/?EDFM"
+                    "url": "https://aip.dfs.de/BasicVFR/pages/C01A45.html"
                 },
                 {
                     "category": "Briefing",
                     "name": "Pilotbriefing",
-                    "url": "https://knowledgebase.vatsim-germany.org/books/airports-langen-fir-edgg/chapter/edfm-mannheim-city"
+                    "url": "https://vats.im/edfm"
                 },
                 {
                     "category": "Scenery",
@@ -1236,12 +1416,17 @@
                 {
                     "category": "Charts",
                     "name": "Charts (VFR)",
-                    "url": "https://www.vfraip.de/?EDDG"
+                    "url": "https://aip.dfs.de/BasicVFR/pages/C01A59.html"
                 },
                 {
                     "category": "Briefing",
                     "name": "Pilotbriefing",
-                    "url": "https://knowledgebase.vatsim-germany.org/books/airports-langen-fir-edgg/chapter/eddg-munsterosnabruck"
+                    "url": "https://vats.im/edgg"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "MSFS Payware by MM",
+                    "url": "https://secure.simmarket.com/mm-simulations-eddg-munster-osnabruck-airport-msfs.phtml"
                 },
                 {
                     "category": "Scenery",
@@ -1252,11 +1437,26 @@
                     "category": "Scenery",
                     "name": "X-Plane Freeware by AeroX",
                     "url": "https://forums.x-plane.org/index.php?/files/file/69405-eddg-fmo-m%C3%BCnster-osnabr%C3%BCck/"
+                }
+            ]
+        },
+        {
+            "icao": "ETHN",
+            "links": [
+                {
+                    "category": "Charts",
+                    "name": "Charts (IFR)",
+                    "url": "https://aip.dfs.de/BasicIFR/pages/C00644.html"
                 },
                 {
-                    "category": "Scenery",
-                    "name": "MSFS Payware by MM",
-                    "url": "https://secure.simmarket.com/mm-simulations-eddg-munster-osnabruck-airport-msfs.phtml"
+                    "category": "Charts",
+                    "name": "Charts (VFR)",
+                    "url": "https://aip.dfs.de/BasicVFR/pages/C01A6A.html"
+                },
+                {
+                    "category": "Charts",
+                    "name": "Charts (MIL)",
+                    "url": "https://www.milais.org/"
                 }
             ]
         },
@@ -1265,13 +1465,13 @@
             "links": [
                 {
                     "category": "Charts",
-                    "name": "Charts (IFR)",
-                    "url": "https://chartfox.org/EDFE"
+                    "name": "Charts (VFR)",
+                    "url": "https://aip.dfs.de/BasicVFR/pages/C019C6.html"
                 },
                 {
-                    "category": "Charts",
-                    "name": "Charts (VFR)",
-                    "url": "https://www.vfraip.de/?EDFE"
+                    "category": "Briefing",
+                    "name": "Pilotbriefing",
+                    "url": "https://vats.im/edfe"
                 },
                 {
                     "category": "Scenery",
@@ -1301,22 +1501,22 @@
                 {
                     "category": "Charts",
                     "name": "Charts (VFR)",
-                    "url": "https://www.vfraip.de/?EDLW"
+                    "url": "https://aip.dfs.de/BasicVFR/pages/C019AE.html"
                 },
                 {
                     "category": "Briefing",
                     "name": "Pilotbriefing",
-                    "url": "https://knowledgebase.vatsim-germany.org/books/airports-langen-fir-edgg/chapter/edlw-dortmund"
-                },
-                {
-                    "category": "Scenery",
-                    "name": "MSFS Freeware by Chak991",
-                    "url": "https://de.flightsim.to/file/47104/edlw-dortmund-regional"
+                    "url": "https://vats.im/edlw"
                 },
                 {
                     "category": "Scenery",
                     "name": "MSFS Freeware by Bahrometrix",
                     "url": "https://flightsim.to/file/51183/regional-airport-dortmund-edlw"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "MSFS Freeware by Chak991",
+                    "url": "https://flightsim.to/file/47104/edlw-dortmund-regional"
                 },
                 {
                     "category": "Scenery",
@@ -1326,17 +1526,47 @@
             ]
         },
         {
+            "icao": "EDTL",
+            "links": [
+                {
+                    "category": "Charts",
+                    "name": "Charts (IFR)",
+                    "url": "https://chartfox.org/EDTL"
+                },
+                {
+                    "category": "Charts",
+                    "name": "Charts (VFR)",
+                    "url": "https://aip.dfs.de/BasicVFR/pages/C01A2A.html"
+                },
+                {
+                    "category": "Briefing",
+                    "name": "Pilotbriefing",
+                    "url": "https://vats.im/edtl"
+                }
+            ]
+        },
+        {
             "icao": "EDFZ",
             "links": [
                 {
                     "category": "Charts",
                     "name": "Charts (VFR)",
-                    "url": "https://www.vfraip.de/?EDFZ"
+                    "url": "https://aip.dfs.de/BasicVFR/pages/C01A44.html"
                 },
                 {
                     "category": "Scenery",
                     "name": "MSFS Freeware by nordic777",
                     "url": "https://flightsim.to/file/23369/edfz-mainz-finthen"
+                }
+            ]
+        },
+        {
+            "icao": "ETIK",
+            "links": [
+                {
+                    "category": "Charts",
+                    "name": "Charts",
+                    "url": "https://www.milais.org/"
                 }
             ]
         }
