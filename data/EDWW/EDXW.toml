@@ -9,7 +9,12 @@ url = "https://chartfox.org/EDXW"
 [[airport.links]]
 category = "Charts"
 name = "Charts (VFR)"
-url = "https://aip.dfs.de/BasicVFR/2024AUG22/chapter/6071b2391c4485947500c4c5ba688b6e.html"
+url = "https://www.vfraip.de/?EDXW"
+
+[[airport.links]]
+category = "Briefing"
+name = "Pilotbriefing"
+url = "https://vats.im/edxw-briefing"
 
 [[airport.links]]
 category = "Scenery"
