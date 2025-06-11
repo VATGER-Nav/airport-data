@@ -56,10 +56,17 @@ class TomlData:
             return self.checked_urls[url]
 
         try:
-            response = requests.head(url, allow_redirects=True, timeout=2)
-            print(f"Checked {url}, status code: {response.status_code}")
-
+            response = requests.get(
+                url,
+                stream=True,
+                allow_redirects=True,
+                timeout=2,
+                headers={"User-Agent": "Mozilla/5.0"},
+            )
             is_valid = response.status_code != 404
+
+            if not is_valid:
+                print(f"Checked {url}, status code: {response.status_code}")
 
             self.checked_urls[url] = is_valid
 
