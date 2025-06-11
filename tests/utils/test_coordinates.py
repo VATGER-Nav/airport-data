@@ -1,4 +1,5 @@
 import unittest
+
 from numpy.testing import assert_allclose
 
 from src.utils.coordinate import parse_latitude, parse_longitude

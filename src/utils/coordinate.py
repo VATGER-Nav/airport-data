@@ -26,9 +26,7 @@ def parse_longitude(longitude_str):
 
     direction = longitude_str[0]
 
-    degrees_str, minutes_str, seconds_str, dec_seconds_str = longitude_str[1:].split(
-        "."
-    )
+    degrees_str, minutes_str, seconds_str, dec_seconds_str = longitude_str[1:].split(".")
 
     degrees = float(degrees_str)
     minutes = float(minutes_str)
