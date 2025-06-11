@@ -1,7 +1,7 @@
 import unittest
 from numpy.testing import assert_allclose
 
-from utils.coordinate import parse_latitude, parse_longitude
+from src.utils.coordinate import parse_latitude, parse_longitude
 
 # relative tolerance
 RTOL = 0.0000001  # 0.0000001 => 11 cm difference, also the precision given in the example data
