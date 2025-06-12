@@ -10,3 +10,8 @@ url = "https://chartfox.org/EDTM"
 category = "Charts"
 name = "Charts (VFR)"
 url = "https://aip.dfs.de/BasicVFR/pages/C01A4C.html"
+
+[[airport.links]]
+category = "Scenery"
+name = "MSFS Freeware by C.T.S"
+url = "https://de.flightsim.to/file/42869/edtm-mengen-hohentengen"
