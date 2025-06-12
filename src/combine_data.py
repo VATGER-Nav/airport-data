@@ -1,8 +1,7 @@
-from settings import ROOT_DIRECTORY, OUTPUT_DIRECTORY
+from settings import OUTPUT_DIRECTORY, ROOT_DIRECTORY
 from tasks.export_stands import export_hp_csv
 from tasks.read_grp_data import GrpDataReader
 from tasks.toml_data import TomlData
-
 
 if __name__ == "__main__":
     airports = GrpDataReader().process_stand_files(ROOT_DIRECTORY)

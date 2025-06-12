@@ -1,0 +1,53 @@
+name: ci
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'src/**'
+      - 'tests/**'
+  pull_request:
+    paths:
+      - 'src/**'
+      - 'tests/**'
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Install Python & Dependencies
+        uses: ./.github/actions/setup
+        with:
+          dev: true
+      - name: Run tests
+        run: uv run pytest tests
+      - uses: k1LoW/octocov-action@v1
+
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Install Python & Dependencies
+        uses: ./.github/actions/setup
+        with:
+          dev: true
+      - name: Run ruff check
+        run: uv run ruff check --output-format github
+      # - name: Run pyright
+      #   run: uv run pyright
+
+  format:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Install Python & Dependencies
+        uses: ./.github/actions/setup
+        with:
+          dev: true
+      - name: Run ruff format
+        run: uv run ruff format --diff

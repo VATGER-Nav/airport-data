@@ -1,2 +1,6 @@
-.vscode/
 *.pyc
+.vscode/*
+.direnv
+cov.xml
+dist
+.coverage

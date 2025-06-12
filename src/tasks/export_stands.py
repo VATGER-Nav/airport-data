@@ -1,5 +1,5 @@
-import os
 import csv
+from pathlib import Path
 from statistics import mean
 
 
@@ -10,12 +10,13 @@ def parse_stand_name(stand_name: str):
 
 def export_hp_csv(airports: dict, output_path: str):
     """Exports the airports dict in the format as required by the homepage"""
-    os.makedirs(output_path, exist_ok=True)
+    output_path = Path(output_path)
+    Path.mkdir(output_path, exist_ok=True, parents=True)
 
     for airport, stands in airports.items():
-        csv_filename = os.path.join(output_path, f"{airport}.csv")
+        csv_filename = output_path / f"{airport}.csv"
 
-        with open(csv_filename, mode="w", newline="") as csv_file:
+        with Path.open(csv_filename, mode="w", newline="") as csv_file:
             writer = csv.writer(csv_file)
             writer.writerow(["stand", "latcoord", "longcoord"])
 
