@@ -78,7 +78,7 @@ class TomlData:
                 return True
 
         except requests.exceptions.RequestException as e:
-            print(f"Error checking {url}: {e}")
+            print(f"Error checking {url} : {e}")
             self.checked_urls[url] = False
             return False
 
