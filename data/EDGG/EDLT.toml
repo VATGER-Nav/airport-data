@@ -1,0 +1,17 @@
+[[airport]]
+icao = "EDLT"
+
+[[airport.links]]
+category = "Charts"
+name = "Charts (VFR)"
+url = "https://aip.dfs.de/BasicVFR/pages/C01AED.html"
+
+[[airport.links]]
+category = "Scenery"
+name = "MSFS Freeware by sasquotschi"
+url = "https://flightsim.to/file/27699/edlt-mnster-telgte-berdelhafen"
+
+[[airport.links]]
+category = "Scenery"
+name = "MSFS 2024 Fix by SebStep91"
+url = "https://flightsim.to/file/93130/msfs-2024-compatibility-fix-for-edlt-munster-telgte-berdelhafen-by-sasquotschi"
