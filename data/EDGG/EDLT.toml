@@ -4,7 +4,7 @@ icao = "EDLT"
 [[airport.links]]
 category = "Charts"
 name = "Charts (VFR)"
-url = "https://aip.dfs.de/BasicVFR/pages/C01AED.html"
+url = "https://aip.dfs.de/BasicVFR/pages/C01A5A.html"
 
 [[airport.links]]
 category = "Scenery"
