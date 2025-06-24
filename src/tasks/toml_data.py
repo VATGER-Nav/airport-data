@@ -93,7 +93,7 @@ class TomlData:
     def validate_data(self):
         for element in self.data.airports:
             for link in element.links:
-                url_is_valid = self.validate_url(link.url)
+                url_is_valid = self.validate_url(str(link.url))
                 if not url_is_valid:
                     self.errors.append(f"Airport {element.icao} has an invalid URL, see: {link}")
 
