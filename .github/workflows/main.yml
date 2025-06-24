@@ -18,17 +18,17 @@ jobs:
         with:
           enable-cache: true
           cache-dependency-glob: "uv.lock"
+          
       - name: "Set up Python"
         uses: actions/setup-python@v5
         with:
           python-version-file: "pyproject.toml"
+
       - name: Install the project
         run: uv sync --all-extras
-        shell: bash
 
       - name: Run TOML check
         run: uv run combine_data
-        shell: bash
 
       - name: Archive generated files as artifact
         uses: actions/upload-artifact@v4
