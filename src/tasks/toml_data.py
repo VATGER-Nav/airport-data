@@ -73,7 +73,7 @@ class TomlData:
                 url,
                 stream=True,
                 allow_redirects=True,
-                timeout=2,
+                timeout=5,
                 headers={"User-Agent": "Mozilla/5.0"},
             )
             is_valid = response.status_code != 404
@@ -89,7 +89,7 @@ class TomlData:
         except requests.exceptions.RequestException as e:
             print(f"Error checking {url} : {e}")
             self.checked_urls[url] = False
-            return False
+            return self.checked_urls[url]
 
     def validate_data(self):
         for element in self.data.airports:
