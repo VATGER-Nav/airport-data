@@ -56,3 +56,10 @@ select = [
     "FURB",  # refurb
 ]
 ignore = ["COM812"]
+
+[tool.uv]
+package = true
+
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
