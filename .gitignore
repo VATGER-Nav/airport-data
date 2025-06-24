@@ -4,3 +4,4 @@
 cov.xml
 dist
 .coverage
+*.egg-info/ 
