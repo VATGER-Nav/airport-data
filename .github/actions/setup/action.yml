@@ -18,3 +18,4 @@ runs:
           python-version-file: "pyproject.toml"
       - name: Install the project
         run: uv sync --all-extras ${{ inputs.dev == 'true' && '--dev' || '' }}
+        shell: bash
