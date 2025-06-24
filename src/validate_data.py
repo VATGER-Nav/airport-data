@@ -1,12 +1,15 @@
 import sys
-from settings import ROOT_DIRECTORY, OUTPUT_DIRECTORY
+
+from settings import OUTPUT_DIRECTORY, ROOT_DIRECTORY
 from tasks.toml_data import TomlData
 
 
-if __name__ == "__main__":
-    tomldata = TomlData(
-        data_dir=ROOT_DIRECTORY, output_dir=OUTPUT_DIRECTORY, export=False
-    )
+def main():
+    tomldata = TomlData(data_dir=ROOT_DIRECTORY, output_dir=OUTPUT_DIRECTORY, export=False)
 
-    if len(tomldata.errors) != 0:
+    if len(tomldata.file_errors) != 0:
         sys.exit(1)
+
+
+if __name__ == "__main__":
+    main()

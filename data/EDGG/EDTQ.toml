@@ -1,0 +1,17 @@
+[[airport]]
+icao = "EDTQ"
+
+[[airport.links]]
+category = "Charts"
+name = "Charts (VFR)"
+url = "https://aip.dfs.de/BasicVFR/pages/C01A86.html"
+
+[[airport.links]]
+category = "Scenery"
+name = "MSFS Freeware by Tumbleweed"
+url = "https://flightsim.to/file/57530/edtq-pattonville-christoph-51-medical-helicopter-base"
+
+[[airport.links]]
+category = "Scenery"
+name = "X-Plane Freeware by KBNOtaku"
+url = "https://forums.x-plane.org/files/file/62311-edtq-pattonville/"

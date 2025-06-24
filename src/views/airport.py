@@ -1,17 +1,18 @@
-from typing import List, Literal, Optional
+from typing import Literal
+
 from pydantic import BaseModel, HttpUrl
 
 
 class Link(BaseModel):
-    category: Optional[Literal["Scenery", "Charts", "Briefing"]] = None
+    category: Literal["Scenery", "Charts", "Briefing"] | None = None
     name: str
     url: HttpUrl
 
 
 class Airport(BaseModel):
     icao: str
-    links: List[Link]
+    links: list[Link]
 
 
 class AirportData(BaseModel):
-    airports: List[Airport]
+    airports: list[Airport]

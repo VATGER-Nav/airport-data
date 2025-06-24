@@ -1,0 +1,21 @@
+name: "Install Python & Dependencies"
+inputs:
+  dev:
+    description: "Install development dependencies"
+    required: false
+    default: "false"
+runs:
+  using: "composite"
+  steps:
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+          cache-dependency-glob: "uv.lock"
+      - name: "Set up Python"
+        uses: actions/setup-python@v5
+        with:
+          python-version-file: "pyproject.toml"
+      - name: Install the project
+        run: uv sync --all-extras ${{ inputs.dev == 'true' && '--dev' || '' }}
+        shell: bash
