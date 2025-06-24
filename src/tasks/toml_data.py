@@ -116,6 +116,7 @@ class TomlData:
             json_data = self.data.model_dump(mode="json")
             output_path = self.output_dir / "airports.json"
 
+            Path.mkdir(self.output_dir, exist_ok=True, parents=True)
             with Path.open(output_path, "w") as json_file:
                 json.dump(json_data, json_file, indent=4)
             print(f"Data successfully exported to {output_path}")
