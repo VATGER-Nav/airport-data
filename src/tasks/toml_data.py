@@ -99,6 +99,7 @@ class TomlData:
 
     def check_errors(self):
         if len(self.errors) == 0:
+            print("Checking TOML data completed successfully, no errors found.")
             return
 
         for error in self.errors:
