@@ -19,7 +19,8 @@ class TomlData:
             "https://www.milais.org/",
         }
         self.checked_urls = {}
-        self.errors = []
+        self.file_errors = []
+        self.url_errors = []
 
         self.load_toml_data()
         self.validate_data()
@@ -50,12 +51,12 @@ class TomlData:
             else:
                 print(f"Warning: 'airport' key not found in {file_path}")
         except (FileNotFoundError, PermissionError) as e:
-            self.errors.append(f"File error for {file_path}: {e}")
+            self.file_errors.append(f"File error for {file_path}: {e}")
         except tomllib.TOMLDecodeError as e:
-            self.errors.append(f"TOML parsing error in {file_path}: {e}")
+            self.file_errors.append(f"TOML parsing error in {file_path}: {e}")
         except TypeError as e:
             # if Airport(**airport_data) fails due to wrong data structure
-            self.errors.append(f"Data error in {file_path}: {e}")
+            self.file_errors.append(f"Data error in {file_path}: {e}")
 
     def validate_url(self, url: str):
         if url in self.whitelist:
@@ -95,18 +96,20 @@ class TomlData:
             for link in element.links:
                 url_is_valid = self.validate_url(str(link.url))
                 if not url_is_valid:
-                    self.errors.append(f"Airport {element.icao} has an invalid URL, see: {link}")
+                    self.url_errors.append(
+                        f"Airport {element.icao} has an invalid URL, see: {link}"
+                    )
 
     def check_errors(self):
-        if len(self.errors) == 0:
+        if len(self.file_errors) == 0:
             print("Checking TOML data completed successfully, no errors found.")
             return
 
-        for error in self.errors:
+        for error in self.file_errors:
             print(error)
 
     def export_data_json(self):
-        if len(self.errors) != 0:
+        if len(self.file_errors) != 0:
             sys.exit(1)
 
         try:
