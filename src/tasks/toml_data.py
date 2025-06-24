@@ -1,3 +1,4 @@
+from concurrent.futures import ThreadPoolExecutor, as_completed
 import json
 import os
 import sys
@@ -15,6 +16,9 @@ class TomlData:
         self.output_dir = Path(output_dir)
         self.data = AirportData(airports=[])
 
+        self.whitelist = {
+            "https://www.milais.org/",
+        }
         self.checked_urls = {}
         self.errors = []
 
@@ -55,6 +59,11 @@ class TomlData:
             self.errors.append(f"Data error in {file_path}: {e}")
 
     def validate_url(self, url: str):
+        if url in self.whitelist:
+            print(f"URL {url} is whitelisted and will not be checked.")
+            self.checked_urls[url] = True
+            return self.checked_urls[url]
+
         if url in self.checked_urls:
             print(f"URL {url} has already been checked. Valid: {self.checked_urls[url]}")
             return self.checked_urls[url]
