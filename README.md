@@ -9,7 +9,7 @@ Manages the airport data used on the VATSIM Germany homepage.
 icao = "EDDY"
 
 [[airport.links]]
-category = "Scenery" | "Charts" | "Briefing" | NONE
+category = "Scenery" | "Charts" | "Briefing" | "GSX Config" | NONE
 name = "Display Name 1"
 url = "https://example.url"
 ```
@@ -31,7 +31,3 @@ name = "Display Name 2"
 url = "https://example2.url"
 
 ```
-
-# TODO:
-
-- give warnings using PRs or Discord hook?

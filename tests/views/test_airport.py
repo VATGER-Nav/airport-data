@@ -23,6 +23,11 @@ class TestAirportDataModel(unittest.TestCase):
                             "url": "https://aip.dfs.de/BasicVFR/pages/C019C8.html",
                         },
                         {
+                            "category": "Scenery",
+                            "name": "Scenery",
+                            "url": "https://some.url",
+                        },
+                        {
                             "category": "GSX Config",
                             "name": "GSX Config",
                             "url": "https://some.url",
