@@ -4,7 +4,7 @@ from pydantic import BaseModel, HttpUrl
 
 
 class Link(BaseModel):
-    category: Literal["Scenery", "Charts", "Briefing"] | None = None
+    category: Literal["Scenery", "Charts", "Briefing", "GSX Config"] | None = None
     name: str
     url: HttpUrl
 

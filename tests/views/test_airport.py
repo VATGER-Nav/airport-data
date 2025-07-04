@@ -22,6 +22,11 @@ class TestAirportDataModel(unittest.TestCase):
                             "name": "Pilotbriefing",
                             "url": "https://aip.dfs.de/BasicVFR/pages/C019C8.html",
                         },
+                        {
+                            "category": "GSX Config",
+                            "name": "GSX Config",
+                            "url": "https://some.url",
+                        },
                     ],
                 },
                 {"icao": "EDDL", "links": []},
