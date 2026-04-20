@@ -131,6 +131,36 @@
             ]
         },
         {
+            "icao": "EDMS",
+            "links": [
+                {
+                    "category": "Charts",
+                    "name": "Charts (IFR)",
+                    "url": "https://chartfox.org/EDMS"
+                },
+                {
+                    "category": "Charts",
+                    "name": "Charts (VFR)",
+                    "url": "https://aip.dfs.de/BasicVFR/pages/C01AD1.html"
+                },
+                {
+                    "category": "Briefing",
+                    "name": "Pilotbriefing",
+                    "url": "https://knowledgebase.vatsim-germany.org/books/airfields-germany/page/edms-straubing"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "MSFS Freeware on flightsim.to",
+                    "url": "https://flightsim.to/addon/36824/edms-straubing-wallmhle"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "X-Plane Gateway",
+                    "url": "https://gateway.x-plane.com/airports/EDMS/show"
+                }
+            ]
+        },
+        {
             "icao": "EDME",
             "links": [
                 {
