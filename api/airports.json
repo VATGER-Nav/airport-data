@@ -281,6 +281,31 @@
             ]
         },
         {
+            "icao": "EDMO",
+            "links": [
+                {
+                    "category": "Charts",
+                    "name": "Charts (IFR)",
+                    "url": "https://chartfox.org/EDMO"
+                },
+                {
+                    "category": "Charts",
+                    "name": "Charts (VFR)",
+                    "url": "https://aip.dfs.de/BasicVFR/pages/C01A77.html"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "MSFS Freeware on flightsim.to",
+                    "url": "https://de.flightsim.to/addon/46185/edmo-oberpfaffenhofen"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "X-Plane Gateway",
+                    "url": "https://gateway.x-plane.com/airports/EDMO/show"
+                }
+            ]
+        },
+        {
             "icao": "ETMN",
             "links": [
                 {
