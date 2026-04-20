@@ -1,0 +1,27 @@
+[[airport]]
+icao = "EDMS"
+
+[[airport.links]]
+category = "Charts"
+name = "Charts (IFR)"
+url = "https://chartfox.org/EDMS"
+
+[[airport.links]]
+category = "Charts"
+name = "Charts (VFR)"
+url = "https://aip.dfs.de/BasicVFR/pages/C01AD1.html"
+
+[[airport.links]]
+category = "Briefing"
+name = "Pilotbriefing"
+url = "https://knowledgebase.vatsim-germany.org/books/airfields-germany/page/edms-straubing"
+
+[[airport.links]]
+category = "Scenery"
+name = "MSFS Freeware on flightsim.to"
+url = "https://flightsim.to/addon/36824/edms-straubing-wallmhle"
+
+[[airport.links]]
+category = "Scenery"
+name = "X-Plane Gateway"
+url = "https://gateway.x-plane.com/airports/EDMS/show"
