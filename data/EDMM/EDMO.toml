@@ -1,0 +1,22 @@
+[[airport]]
+icao = "EDMO"
+
+[[airport.links]]
+category = "Charts"
+name = "Charts (IFR)"
+url = "https://chartfox.org/EDMO"
+
+[[airport.links]]
+category = "Charts"
+name = "Charts (VFR)"
+url = "https://aip.dfs.de/BasicVFR/pages/C01A77.html"
+
+[[airport.links]]
+category = "Scenery"
+name = "MSFS Freeware on flightsim.to"
+url = "https://de.flightsim.to/addon/46185/edmo-oberpfaffenhofen"
+
+[[airport.links]]
+category = "Scenery"
+name = "X-Plane Gateway"
+url = "https://gateway.x-plane.com/airports/EDMO/show"
