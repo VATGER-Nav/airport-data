@@ -274,6 +274,11 @@
                     "url": "https://aip.dfs.de/BasicVFR/pages/C01A37.html"
                 },
                 {
+                    "category": "Briefing",
+                    "name": "Pilotbriefing",
+                    "url": "https://knowledgebase.vatsim-germany.org/books/airports-munchen-fir-edmm/page/eddp-leipzighalle"
+                },
+                {
                     "category": "Scenery",
                     "name": "MSFS Payware by Digital Design",
                     "url": "https://secure.simmarket.com/digital-design-leipzig-msfs.phtml"
