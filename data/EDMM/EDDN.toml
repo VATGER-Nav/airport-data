@@ -12,6 +12,11 @@ name = "Charts (VFR)"
 url = "https://aip.dfs.de/BasicVFR/pages/C01A74.html"
 
 [[airport.links]]
+category = "Briefing"
+name = "Pilotbriefing"
+url = "https://knowledgebase.vatsim-germany.org/books/airports-munchen-fir-edmm/page/eddn-nurnberg"
+
+[[airport.links]]
 category = "Scenery"
 name = "X-Plane Freeware by FranknFly"
 url = "https://forums.x-plane.org/index.php?/files/file/42808-eddn-nuernberg-international-for-xplane-12/"
