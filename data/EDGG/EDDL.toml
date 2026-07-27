@@ -17,11 +17,6 @@ name = "Pilotbriefing"
 url = "https://vats.im/eddl"
 
 [[airport.links]]
-category = "Briefing"
-name = "vACDM Pilot Guide"
-url = "https://vacdm.net/docs/pilot"
-
-[[airport.links]]
 category = "Scenery"
 name = "MSFS Payware by Justsim"
 url = "https://secure.simmarket.com/justsim-duesseldorf-airport-msfs.phtml"

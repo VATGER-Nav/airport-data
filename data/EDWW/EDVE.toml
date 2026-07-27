@@ -12,11 +12,6 @@ name = "Charts (VFR)"
 url = "https://aip.dfs.de/BasicVFR/pages/C01992.html"
 
 [[airport.links]]
-category = "Briefing"
-name = "vACDM Pilot Guide"
-url = "https://knowledgebase.vatsim-germany.org/books/vacdm/page/vacdm-pilot-guide"
-
-[[airport.links]]
 category = "Scenery"
 name = "MSFS Freeware by TeamEDVE"
 url = "https://flightsim.to/file/23933/flughafen-braunschweig-wolfsburg-edve/"
