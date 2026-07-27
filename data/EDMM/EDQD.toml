@@ -1,0 +1,37 @@
+[[airport]]
+icao = "EDQD"
+
+[[airport.links]]
+category = "Charts"
+name = "Charts (IFR)"
+url = "https://chartfox.org/EDQD"
+
+[[airport.links]]
+category = "Charts"
+name = "Charts (VFR)"
+url = "https://aip.dfs.de/BasicVFR/pages/C01979.html"
+
+[[airport.links]]
+category = "Briefing"
+name = "Pilotbriefing"
+url = "https://knowledgebase.vatsim-germany.org/books/airfields-germany/page/edqd-bayreuth"
+
+[[airport.links]]
+category = "Scenery"
+name = "X-Plane Gateway"
+url = "https://gateway.x-plane.com/airports/EDQD/show"
+
+[[airport.links]]
+category = "Scenery"
+name = "MSFS Freeware on flightsim.to"
+url = "https://flightsim.to/addon/13164/edqd-bayreuth"
+
+[[airport.links]]
+category = "Scenery"
+name = "MSFS Freeware on flightsim.to (CHX20)"
+url = "https://flightsim.to/addon/29410/adac-luftrettung-christoph-20-interims-standort-am-flugplatz-bayreuth-edqd"
+
+[[airport.links]]
+category = "Scenery"
+name = "MSFS Payware by M'M Simulations"
+url = "https://www.mmsimulations.com/bayreuth"
