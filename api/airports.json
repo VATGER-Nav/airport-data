@@ -269,11 +269,6 @@
                     "url": "https://vats.im/eddf"
                 },
                 {
-                    "category": "Briefing",
-                    "name": "vACDM Pilot Guide",
-                    "url": "https://vacdm.net/docs/pilot"
-                },
-                {
                     "category": "Scenery",
                     "name": "MSFS Payware by Aerosoft",
                     "url": "https://www.aerosoft.com/de/shop/flight/microsoft-flight-simulator/msfs-szenerien/msfs-europa/4398/aerosoft-mega-airport-frankfurt"
@@ -442,11 +437,6 @@
                     "category": "Briefing",
                     "name": "Pilotbriefing",
                     "url": "https://vats.im/eddl"
-                },
-                {
-                    "category": "Briefing",
-                    "name": "vACDM Pilot Guide",
-                    "url": "https://vacdm.net/docs/pilot"
                 },
                 {
                     "category": "Scenery",
@@ -712,11 +702,6 @@
                     "category": "Briefing",
                     "name": "Pilotbriefing",
                     "url": "https://vats.im/edds"
-                },
-                {
-                    "category": "Briefing",
-                    "name": "vACDM Pilot Guide",
-                    "url": "https://vacdm.net/docs/pilot"
                 },
                 {
                     "category": "Scenery",
@@ -1022,11 +1007,6 @@
                     "category": "Briefing",
                     "name": "Pilotbriefing",
                     "url": "https://knowledgebase.vatsim-germany.org/books/airports-munchen-fir-edmm/chapter/eddm-munchen"
-                },
-                {
-                    "category": "Briefing",
-                    "name": "vACDM Pilot Guide",
-                    "url": "https://knowledgebase.vatsim-germany.org/books/vacdm/page/vacdm-pilot-guide"
                 },
                 {
                     "category": "Scenery",
@@ -1352,11 +1332,6 @@
                     "category": "Charts",
                     "name": "Charts (VFR)",
                     "url": "https://aip.dfs.de/BasicVFR/pages/C01992.html"
-                },
-                {
-                    "category": "Briefing",
-                    "name": "vACDM Pilot Guide",
-                    "url": "https://knowledgebase.vatsim-germany.org/books/vacdm/page/vacdm-pilot-guide"
                 },
                 {
                     "category": "Scenery",
